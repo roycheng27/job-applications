@@ -1,20 +1,22 @@
 % === TAILORED RESUME METADATA ===
-% Job:        Machine Learning Intern @ BMO
-% Link:       https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372
-% Source:     vanshb03-offseason
+% Job:        LLM Post-training Engineer Intern @ TikTok
+% Link:       https://lifeattiktok.com/search/7631599293708126517
+% Source:     vanshb03
 % Field:      AI-MLE
 % Tailored:   2026-06-22
-% Keywords added: machine learning, predictive modeling, BigQuery, data preprocessing, financial ML
+% Keywords added: LLM, post-training, fine-tuning, Transformer, PyTorch, embeddings, distributed training
 % Changes vs base:
-%   - Experience "Kohl's": bullet 1 rewritten to surface BigQuery and predictive modeling (99 chars vs 113 orig)
-%   - Coursework reordered to lead with Machine Learning, Neural Networks & Deep Learning, Probability
-%   - Skills Languages reordered: Python, SQL first for financial ML context
-%   - Skills Libraries reordered: PyTorch, TensorFlow, scikit-learn first
-%   - Skills Tools reordered: GCP, BigQuery, Snowflake first
+%   - Experience "ACTUM Digital": bullet 3 rewritten to surface "LLM prompting" (110 chars vs 112 orig)
+%   - Coursework reordered to lead with Neural Networks & Deep Learning, Machine Learning, NLP
+%   - Skills Languages reordered: Python, C++ first
+%   - Skills Libraries reordered: PyTorch, TensorFlow, Keras first
+%   - Skills Tools reordered: GCP, Vertex AI first
 % ================================
 \documentclass[letterpaper,11pt]{article}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+% Latin Modern ships no bold small-caps face; resolve the heading's
+% bold+small-caps request to bold (its current rendering) without a warning.
 \input{t1lmr.fd}
 \DeclareFontShape{T1}{lmr}{bx}{sc}{<->ssub*lmr/bx/n}{}
 \usepackage{latexsym}
@@ -48,7 +50,11 @@
   \vspace{-10pt}\scshape\raggedright\large
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 \pdfgentounicode=1
-\newcommand{\resumeItem}[1]{\item\small{#1}}
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
@@ -74,13 +80,17 @@
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}[itemsep= 1.5pt, parsep=0pt]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+%----------HEADING----------
 \begin{center}
     \textbf{\LARGE \scshape Roy (Yuanxi) Cheng} \\ \vspace{3pt}
     \small Laguna Niguel, CA $|$ (949) 378-0596 $|$
     \href{mailto:roycheng27@ucla.edu}{\underline{roycheng27@ucla.edu}} $|$
     \href{https://www.linkedin.com/in/ycheng05}{\underline{linkedin.com/in/ycheng05}}
 \end{center}
+%-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
@@ -89,9 +99,10 @@
       \resumeItemListStart
         \resumeItem{\textbf{Awards \& Programs:} Dean's Honor's List, Persolv AI Intensive, BCG Case Comp Semi-finalist}
         \resumeItem{\textbf{Certificates:} Data Science \& SQL in Python, EDA in R, Data Manipulation with dplyr, Data Visualization with ggplot2}
-        \resumeItem{\textbf{Relevant Coursework:} Machine Learning, Neural Networks \& Deep Learning, Probability \& Statistical Inference, Data Analysis \& Regression, Data Mining, NLP, Data Structures \& Algorithms, Databases, Monte Carlo, Optimization}
+        \resumeItem{\textbf{Relevant Coursework:} Neural Networks \& Deep Learning, Machine Learning, NLP, Data Mining, Probability \& Statistical Inference, Data Analysis \& Regression, Data Structures \& Algorithms, Databases, Monte Carlo, Optimization}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
+%-----------WORK AND LEADERSHIP EXPERIENCE-----------
 \section{Work and Leadership Experience}
   \resumeSubHeadingListStart
     \resumeSubheading
@@ -114,7 +125,7 @@
       {Kohl's}{Los Angeles, California}
       {Project Manager and Data Analyst}{Jun 2025 -- Mar 2026}
       \resumeItemListStart
-        \resumeItem{Analyzed 8.5M+ records in BigQuery, applying SQL and Python to clean and validate supply chain data}
+        \resumeItem{Analyzed 8.5M+ logistics records using SQL and Python, resolving inconsistencies and validating supply chain data}
         \resumeItem{Conducted EDA in Vertex AI Workbench, engineering predictive features to enhance shipment transit time forecasting}
         \resumeItem{Developed and deployed two-stage XGBoost forecasting model, improving shipment arrival prediction MAE by 83\%}
       \resumeItemListEnd
@@ -124,7 +135,7 @@
       \resumeItemListStart
         \resumeItem{Managed project workflows in Jira/Confluence, presenting structured weekly updates that improved delivery timeline}
         \resumeItem{Engineered Python scripts with agentic methods to filter files, generate metadata, and embed into Milvus vector database}
-        \resumeItem{Authored prompting and integrated MCP server to create AI assistant, co-presenting live demo to ACTUM executives}
+        \resumeItem{Authored LLM prompting and integrated MCP server to create AI assistant, co-presenting live demo to executives}
       \resumeItemListEnd
     \resumeSubheading
       {Million Dollar Baby}{Los Angeles, California}
@@ -135,6 +146,7 @@
         \resumeItem{Built a dashboard of 20+ marketing KPIs in Excel to highlight performance trends to brand managers and stakeholders}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
+%-----------PROJECTS AND RESEARCH-----------
 \section{Projects and Research}
     \resumeSubHeadingListStart
       \resumeProjectHeading
@@ -159,12 +171,14 @@
             \resumeItem{Created interactive Tableau map for research website by linking geographic data to score changes across 50 U.S. states}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
+%-----------TECHNICAL SKILLS-----------
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0in, label={}]
     \small{\item{
-     \textbf{Languages}{: Python, SQL, R, C++, JavaScript, Java} \\
-     \textbf{Libraries/Frameworks}{: PyTorch, TensorFlow, scikit-learn, pandas, XGBoost, NumPy, Keras, Matplotlib, Seaborn, ggplot2} \\
-     \textbf{Tools \& Platforms}{: GCP, BigQuery, Snowflake, Vertex AI, Tableau, Jupyter Notebooks, Git, GitHub}
+     \textbf{Languages}{: Python, C++, SQL, R, JavaScript, Java} \\
+     \textbf{Libraries/Frameworks}{: PyTorch, TensorFlow, Keras, XGBoost, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, ggplot2} \\
+     \textbf{Tools \& Platforms}{: GCP, Vertex AI, BigQuery, Jupyter Notebooks, Git, GitHub, Snowflake, Tableau}
     }}
  \end{itemize}
+%-------------------------------------------
 \end{document}
