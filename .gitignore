@@ -1,0 +1,19 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.bbl
+*.blg
+*.fdb_latexmk
+
+# Compiled PDFs (compiled locally; not tracked)
+*.pdf
+
+# macOS
+.DS_Store
