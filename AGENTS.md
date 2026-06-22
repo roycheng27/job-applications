@@ -13,6 +13,10 @@ the `knowledgebase/` — not by changing code.
 
 - `pipeline/sources.md` — job source URLs + targeting filters + field→folder mapping. **Filters
   defined there are authoritative;** the summary in this file is a convenience copy.
+- `pipeline/preferences.md` — **living preferences/feedback log. Read it every run and honor it.**
+  Its entries **override** the defaults in this file and in `sources.md` wherever they conflict
+  (except the hard rules: one-page and truthfulness always win — flag any conflict in the report).
+  This is how Roy continuously tunes tailoring over time.
 - `knowledgebase/00_INDEX.md` — the routing entrypoint for selecting which experiences to use.
 - `knowledgebase/<experience>.md` — atomic experience files (load only the routed ones).
 - `resume_base.tex` — the master template AND the gold-standard set of bullets. Never modify it.
@@ -21,6 +25,11 @@ the `knowledgebase/` — not by changing code.
 ---
 
 ## Pipeline (run in order)
+
+### 0. Load preferences
+Read `pipeline/preferences.md` first. Apply its active preferences throughout this run; they
+override defaults in this file and `sources.md` on conflict (hard rules excepted). If a
+preference is ambiguous or conflicts with a hard rule, proceed sensibly and note it in the report.
 
 ### 1. Fetch sources
 Fetch the reliable GitHub raw README URLs in `pipeline/sources.md`. Then attempt the
@@ -88,8 +97,9 @@ g. **Record** the job in `seen_jobs.json` (see ledger format below).
 
 ### 6. Report
 Write `pipeline/reports/daily_<YYYY-MM-DD>.md`: counts of jobs found / selected / skipped (with
-skip reasons), the list of tailored resumes produced (company, role, field, link), and any
-sources that failed or knowledge-base gaps noticed.
+skip reasons), the list of tailored resumes produced (company, role, field, link), any sources
+that failed or knowledge-base gaps noticed, and — if relevant — **suggested preference updates**
+for Roy to consider adding to `pipeline/preferences.md` (this closes the feedback loop).
 
 ### 7. Open one PR
 Create a branch `tailor/<YYYY-MM-DD>`, commit all new files, push, and open **one PR**:
@@ -178,3 +188,18 @@ Keyed by a stable job key `slug(company)|slug(role)|slug(location)`:
 
 Use `status: "skipped"` with a `reason` field for jobs evaluated but not tailored (e.g.
 `"masters_required"`, `"location_out_of_region"`, `"cap_reached"`), so they aren't re-evaluated.
+
+---
+
+## Tuning this system over time
+
+Behavior is entirely doc-driven — no code to change. To adjust how resumes get tailored:
+- **`pipeline/preferences.md`** — day-to-day preferences & feedback (wording, bullet choices,
+  experience selection, per-field notes). Read every run; overrides defaults. Edit this most.
+- **`pipeline/sources.md`** — job sources, location allowlist, role priorities, daily cap.
+- **`knowledgebase/`** — the experience bank. Add detail/metrics here for sharper, truthful bullets.
+- **`AGENTS.md`** (this file) — the stable pipeline spec and hard rules. Change rarely.
+
+Roy can edit these directly or just ask Claude to update them (e.g. "stop using 'leveraged'" →
+Claude appends the rule to `preferences.md`). After reviewing each daily PR, fold corrections
+back into `preferences.md` so quality compounds over time.
