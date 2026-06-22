@@ -34,8 +34,12 @@ nothing — the GitHub tables are the dependable backbone.
 
 ## 2. Targeting Filters (applied during selection)
 
-**Freshness:** Only jobs newly posted (Date ≈ today / within the last 1–2 days) AND not already
-in `seen_jobs.json`.
+**Freshness — the dedupe ledger is the real signal.** "Newly posted" = **not already in
+`seen_jobs.json`**. The first run treats everything as new (process up to the daily cap, newest
+`Date Posted` first); each later run only processes jobs that have appeared since. Do NOT use a
+hard "posted in the last 1–2 days" cutoff — these source repos update sparsely (e.g. the newest
+batch may be weeks old, especially early in a season), so a tight date window often yields zero
+jobs. Use `Date Posted` only for **ranking/tie-breaking** (newer first), not as a filter.
 
 **Hard excludes — drop the job if any apply:**
 - Master's / MS / PhD listed as a **required** qualification (a "preferred"/"plus" Master's is OK).

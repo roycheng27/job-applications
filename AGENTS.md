@@ -28,8 +28,18 @@ intern-list.com pages (best-effort; don't block the run if they return nothing).
 source that fails to fetch.
 
 ### 2. Parse
-Extract rows into records: `{company, role, location, date, link, source}`. Skip rows marked
-closed (🔒). Note 🛂 (no sponsorship) and 🇺🇸 (citizenship) but don't auto-drop on them.
+Extract rows into records: `{company, role, location, date, link, source}`. Parsing notes for the
+GitHub tables (5 columns: Company / Role / Location / Application/Link / Date Posted):
+- The **link** lives inside an `<a href="...">` wrapping an "Apply" image — extract the `href`.
+  A bare `🔒` in that column means **closed → skip the row**.
+- A company cell of `↳` means **same company as the row above** (continuation listing) — inherit
+  the previous row's company name.
+- Strip status emoji from the role: 🛂 (no sponsorship) and 🇺🇸 (citizenship) — note them on the
+  record but don't auto-drop on them.
+
+### 2b. Freshness (dedupe ledger, not a date cutoff)
+Per `pipeline/sources.md`: "new" = the job key is **not** in `seen_jobs.json`. Do not apply a
+hard recent-date window (sources update sparsely). `Date Posted` is used only for ranking.
 
 ### 3. Filter (per `pipeline/sources.md` targeting filters)
 Drop a job unless ALL hold:
@@ -48,6 +58,10 @@ For each job, in ranked order:
 a. **Read the JD.** Fetch the application link (WebFetch; use WebSearch to fill in company/role
    context if the page is JS-gated or thin). Extract required skills, keywords, qualifications,
    and tech stack. If the JD reveals a *required* Master's, skip the job and log it.
+   **Dead/inaccessible links are common** (ATS links expire or are JS-gated → 404/empty). If the
+   JD can't be retrieved, fall back to WebSearch on "<company> <role>" + general knowledge of the
+   role family to infer the likely skill/keyword set, and note in the report that the JD was
+   inferred rather than read. Do not skip a good job solely because its link is dead.
 
 b. **Classify** into a field folder using the Field→Folder mapping in `pipeline/sources.md`:
    `AI-MLE`, `SWE`, or `DA-DS`.
@@ -91,9 +105,15 @@ Create a branch `tailor/<YYYY-MM-DD>`, commit all new files, push, and open **on
 - **Preserve structure.** Sections stay largely intact. The ONLY allowed structural move: for
   **SWE** jobs, *Projects and Research* may be placed **above** *Work and Leadership Experience*.
   No other section reordering.
-- **One page, always.** `resume_base.tex` compiles to exactly one page. Every tailored output
-  must still be exactly one page. Edits must be **length-neutral**: keep the same bullet counts
-  and roughly equivalent line lengths so nothing overflows or leaves a second page.
+- **One page, always — safe by construction.** `resume_base.tex` is *perfectly full* (compiles to
+  exactly one page with no slack), and the agent has **no LaTeX to page-check with**. So one-page
+  safety must be guaranteed by the edit itself, not by compiling:
+  - **Never add or remove bullets, experiences, or lines.** Keep the exact same item counts.
+  - **Each edited bullet must be ≤ the character length of the bullet it replaces.** Shorter is
+    safe; longer is forbidden (a single wrapped line spills to a 2nd page). Count characters.
+  - Reordering coursework/skills items (same items, same text) is always length-safe.
+  - Roy's **local compile is the final gate** (he compiles each PR's `.tex` with MacTeX before
+    use); the agent's job is to make that compile come out at one page every time.
 - **Prefer editing over replacing.** The experiences in `resume_base.tex` are the general
   strongest set. **Do not swap an experience** unless a job's qualifications make it clearly
   necessary; default to editing existing experiences/bullets to surface the right keywords.
