@@ -1,0 +1,182 @@
+% === TAILORED RESUME METADATA ===
+% Job:        Software Engineering Intern @ Datadog
+% Link:       https://careers.datadoghq.com/
+% Source:     vanshb03-offseason
+% Field:      SWE
+% Tailored:   2026-06-22
+% Keywords added: observability, monitoring, distributed systems, Go, Python, backend, software engineering, metrics, tracing
+% Changes vs base:
+%   - Projects and Research section moved above Work and Leadership Experience
+%   - Coursework reordered to lead with Data Structures & Algorithms, Machine Learning, Neural Networks & Deep Learning
+%   - Skills Languages reordered: Python, SQL, C++, Java, JavaScript, R
+%   - Skills Libraries reordered to lead with scikit-learn, pandas, NumPy, PyTorch
+%   - Skills Tools reordered to lead with Git, GitHub, GCP, BigQuery
+% ================================
+\documentclass[letterpaper,11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\input{t1lmr.fd}
+\DeclareFontShape{T1}{lmr}{bx}{sc}{<->ssub*lmr/bx/n}{}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\footskip}{4.08003pt}
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.6in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-0.7in}
+\addtolength{\textheight}{1.6in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+\pdfgentounicode=1
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      #1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[itemsep= 1.5pt, parsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%----------HEADING----------
+\begin{center}
+    \textbf{\LARGE \scshape Roy (Yuanxi) Cheng} \\ \vspace{3pt}
+    \small Laguna Niguel, CA $|$ (949) 378-0596 $|$
+    \href{mailto:roycheng27@ucla.edu}{\underline{roycheng27@ucla.edu}} $|$
+    \href{https://www.linkedin.com/in/ycheng05}{\underline{linkedin.com/in/ycheng05}}
+\end{center}
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of California, Los Angeles (UCLA)}{Sep 2023 -- Mar 2027}
+      {Bachelor of Science in Statistics and Data Science, Minor in Data Science Engineering}{GPA: 3.75}
+      \resumeItemListStart
+        \resumeItem{\textbf{Awards \& Programs:} Dean's Honor's List, Persolv AI Intensive, BCG Case Comp Semi-finalist}
+        \resumeItem{\textbf{Certificates:} Data Science \& SQL in Python, EDA in R, Data Manipulation with dplyr, Data Visualization with ggplot2}
+        \resumeItem{\textbf{Relevant Coursework:} Data Structures \& Algorithms, Machine Learning, Neural Networks \& Deep Learning, Databases, Data Mining, NLP, Probability \& Statistical Inference, Data Analysis \& Regression, Monte Carlo, Optimization}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%-----------PROJECTS AND RESEARCH-----------
+\section{Projects and Research}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Adrenaline and Cognitive Fatigue Effects on Athletic Performance} $|$ \textit{R, ggplot2, tidyverse, dplyr}}{}
+          \resumeItemListStart
+            \resumeItem{Designed $2^3$ factorial experiment with 96 participants across 8 conditions, blocking by age and gender to reduce variance}
+            \resumeItem{Conducted three-way ANOVA and Tukey post hoc tests in R, revealing no significant interactions at $\alpha = 0.05$}
+            \resumeItem{Verified model assumptions with log transformation and ggplot2 diagnostics, confirming normality and homoscedasticity}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Biomedical Tissue Imaging} $|$ \textit{Python, PyTorch, YOLOv8, Pandas, NumPy, Matplotlib, OpenCV}}{}
+          \resumeItemListStart
+            \resumeItem{Published article analyzing CNN-based segmentation models and AP metrics to evaluate cytoplasm boundary precision}
+            \resumeItem{Engineered data pipeline to convert 4k+ CytoNuke annotations into COCO to allow training across 3 model architectures}
+            \resumeItem{Improved cytoplasm segmentation by training YOLOv8 in PyTorch, increasing AP50 by 5\% over Cyto-RCNN}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{COVID Pandemic Effects on Secondary Education} $|$ \textit{Python, Pandas, Tableau, Excel, Matplotlib}}{}
+          \resumeItemListStart
+            \resumeItem{Cleaned 100k+ student records by merging multi-level datasets, enabling accurate visualization and analysis in Tableau}
+            \resumeItem{Built time series visualizations by aggregating 4 years of test scores, revealing 15\% avg decline in student performance}
+            \resumeItem{Created interactive Tableau map for research website by linking geographic data to score changes across 50 U.S. states}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+%-----------WORK AND LEADERSHIP EXPERIENCE-----------
+\section{Work and Leadership Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Capital One}{McLean, Virginia}
+      {Product Management and Analysis Intern}{Jun 2026 -- Present}
+      \resumeItemListStart
+        \resumeItem{Leveraged SQL and Python to analyze workforce data, identifying factors tied to successful organizational transitions}
+        \resumeItem{Defined metrics of reorganization success, equipping leaders to assess workforce outcomes and operational effectiveness}
+        \resumeItem{Synthesized findings into executive insights to guide decisions on talent retention, development, and workforce planning}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Data Science Union}{Los Angeles, California}
+      {External Vice President}{Dec 2025 -- Present}
+      \resumeItemListStart
+        \resumeItem{Directed client partnerships, marketing, and professional development initiatives to expand opportunities across members}
+        \resumeItem{Managed 3 directors and coordinated executive priorities, ensuring seamless execution of quarterly and annual objectives}
+        \resumeItem{Cultivated industry and alumni partnerships to secure client projects, increase visibility, and expand career programming}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Kohl's}{Los Angeles, California}
+      {Project Manager and Data Analyst}{Jun 2025 -- Mar 2026}
+      \resumeItemListStart
+        \resumeItem{Analyzed 8.5M+ logistics records using SQL and Python, resolving inconsistencies and validating supply chain data}
+        \resumeItem{Conducted EDA in Vertex AI Workbench, engineering predictive features to enhance shipment transit time forecasting}
+        \resumeItem{Developed and deployed two-stage XGBoost forecasting model, improving shipment arrival prediction MAE by 83\%}
+      \resumeItemListEnd
+    \resumeSubheading
+      {ACTUM Digital}{Prague, Czech Republic}
+      {Data Analyst and AI Intern}{Jun 2025 -- Aug 2025}
+      \resumeItemListStart
+        \resumeItem{Managed project workflows in Jira/Confluence, presenting structured weekly updates that improved delivery timeline}
+        \resumeItem{Engineered Python scripts with agentic methods to filter files, generate metadata, and embed into Milvus vector database}
+        \resumeItem{Authored prompting and integrated MCP server to create AI assistant, co-presenting live demo to ACTUM executives}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Million Dollar Baby}{Los Angeles, California}
+      {Data Analysis Consultant}{Apr 2025 -- Jun 2025}
+      \resumeItemListStart
+        \resumeItem{Analyzed \$10M+ ad spend data with SQL to extract insights that informed growth strategy and investment decisions}
+        \resumeItem{Presented CAC and RoAS assessments across attribution windows to guide stakeholders on marketing spend allocation}
+        \resumeItem{Built a dashboard of 20+ marketing KPIs in Excel to highlight performance trends to brand managers and stakeholders}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, SQL, C++, Java, JavaScript, R} \\
+     \textbf{Libraries/Frameworks}{: scikit-learn, pandas, NumPy, PyTorch, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn, ggplot2} \\
+     \textbf{Tools \& Platforms}{: Git, GitHub, GCP, BigQuery, Snowflake, Jupyter Notebooks, Vertex AI, Tableau}
+    }}
+ \end{itemize}
+%-------------------------------------------
+\end{document}
