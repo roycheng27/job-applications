@@ -8,5 +8,188 @@
     "field": "AI-MLE",
     "first_seen": "2026-06-22",
     "status": "tailored"
+  },
+  "tiktok|llm-post-training-engineer-intern|san-jose-ca": {
+    "company": "TikTok",
+    "role": "LLM Post-Training Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://careers.tiktok.com (JD inferred)",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "bmo|machine-learning-intern|chicago-il": {
+    "company": "BMO",
+    "role": "Machine Learning Intern",
+    "location": "Chicago, IL",
+    "link": "https://bmo.wd3.myworkdayjobs.com (JD inferred; role may have been removed from public listing)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://www.verkada.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "trata|research-scientist-intern|san-francisco-ca": {
+    "company": "Trata",
+    "role": "Research Scientist Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.workatastartup.com/jobs/94620",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "apple|software-engineer-intern-undergrad|cupertino-ca": {
+    "company": "Apple",
+    "role": "Software Engineer Intern (Undergrad)",
+    "location": "Cupertino, CA",
+    "link": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "salesforce|software-engineer-intern-futureforce-summer-2027|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "Software Engineer Intern (Futureforce Summer 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "amazon|robotics-software-development-engineer-intern|seattle-wa": {
+    "company": "Amazon",
+    "role": "Robotics Software Development Engineer Intern",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "uber|software-engineering-intern-fall-2026|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineering Intern (Fall 2026)",
+    "location": "San Francisco, CA",
+    "link": "https://university-uber.icims.com/jobs/159161/job",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern|san-mateo-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://careers.snowflake.com (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "tesla|software-engineer-intern|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Engineer Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "notion|software-engineer-intern|san-francisco-ca": {
+    "company": "Notion",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.notion.so/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.rippling.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "aquatic-capital|software-engineer-intern|chicago-il": {
+    "company": "Aquatic Capital",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.aquaticcapital.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "liveramp|software-engineer-intern|san-francisco-ca": {
+    "company": "LiveRamp",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://liveramp.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "avanade|software-engineer-intern|seattle-wa": {
+    "company": "Avanade",
+    "role": "Software Engineer Intern",
+    "location": "Seattle, WA",
+    "link": "https://www.avanade.com/en/career (JD inferred)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-23",
+    "status": "tailored"
+  },
+  "nvidia|jax-intern|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "JAX Intern",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com (JD inferred)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "skipped",
+    "skip_reason": "ms_phd_required"
+  },
+  "rippling|ml-engineer-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "ML Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.rippling.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "skipped",
+    "skip_reason": "ms_phd_required"
+  },
+  "pathai|ml-intern|boston-ma": {
+    "company": "PathAI",
+    "role": "ML Intern",
+    "location": "Boston, MA",
+    "link": "https://www.pathai.com/careers (JD inferred)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-23",
+    "status": "skipped",
+    "skip_reason": "ms_phd_required"
   }
 }
