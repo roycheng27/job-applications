@@ -66,7 +66,7 @@ jobs. Use `Date Posted` only for **ranking/tie-breaking** (newer first), not as 
 **Timeline match:** new-grad roles (Roy graduates Mar 2027), summer internships, and winter /
 off-cycle internships.
 
-**Daily cap:** up to **15** newly-posted matching jobs per run (ranked by role priority, then
+**Daily cap:** up to **7** newly-posted matching jobs per run (ranked by role priority, then
 company renown).
 
 ---

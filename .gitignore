@@ -12,8 +12,9 @@
 *.blg
 *.fdb_latexmk
 
-# Compiled PDFs (compiled locally; not tracked)
+# PDFs: ignored globally except resume.pdf inside application job folders
 *.pdf
+!applications/**/resume.pdf
 
 # macOS
 .DS_Store

@@ -37,7 +37,15 @@ intern-list.com pages (best-effort; don't block the run if they return nothing).
 source that fails to fetch.
 
 ### 2. Parse
-Extract rows into records: `{company, role, location, date, link, source}`. Parsing notes for the
+Extract rows into records: `{company, role, location, date, link, source, type}`. The **type**
+field is derived from the source file used:
+- `vanshb03` main README → `"summer internship"`
+- `vanshb03` OFFSEASON_README → `"off season internship"`
+- `cvrve/New-Grad` README → `"new grad"`
+- `intern-list.com` → infer from role/title ("Intern" → `"summer internship"` as default; if role
+  mentions "off-cycle" or "co-op" → `"off season internship"`; if no "intern" in title → `"new grad"`)
+
+Parsing notes for the
 GitHub tables (5 columns: Company / Role / Location / Application/Link / Date Posted):
 - The **link** lives inside an `<a href="...">` wrapping an "Apply" image — extract the `href`.
   A bare `🔒` in that column means **closed → skip the row**.
@@ -59,7 +67,7 @@ Drop a job unless ALL hold:
 
 ### 4. Rank & cap
 Sort survivors by role priority (DS/MLE > SWE > DA > other analyst), then by company renown
-(larger / more recognized first). Take the top **15**.
+(larger / more recognized first). Take the top **7**.
 
 ### 5. Per selected job
 For each job, in ranked order:
@@ -88,18 +96,46 @@ e. **Write the metadata comment block** at the very top of the tailored `.tex` (
 f. **Save** to:
    - `applications/<field>/YuanxiCheng_<Company>_<Role>/resume.tex`
    - `applications/<field>/YuanxiCheng_<Company>_<Role>/job.md` (JD snapshot: link, source,
-     location, date pulled, extracted qualifications/keywords).
+     location, date pulled, type, extracted qualifications/keywords).
 
    Sanitize `<Company>` and `<Role>` for filesystem safety: no spaces or `/` (use CamelCase or
    hyphens), strip punctuation. Example: `YuanxiCheng_Stripe_SoftwareEngineerIntern`.
 
-g. **Record** the job in `seen_jobs.json` (see ledger format below).
+g. **Compile PDF.** In the job folder, run:
+   ```
+   latexmk -pdf -interaction=nonstopmode -halt-on-error resume.tex
+   ```
+   Then run `latexmk -c` to remove build artifacts (`.aux`, `.log`, `.fls`, etc.), keeping only
+   `resume.tex`, `resume.pdf`, and `job.md`. If `latexmk` is not available, try installing a
+   minimal TeX distribution first:
+   ```
+   sudo apt-get install -y --no-install-recommends texlive-latex-base texlive-fonts-recommended lmodern
+   ```
+   If compilation still fails (environment limitation), commit without the PDF and note it in the
+   daily report. **Never commit intermediate build artifacts** (`.aux`, `.log`, `.out`, etc.).
+
+h. **Record** the job in `seen_jobs.json` (see ledger format below).
 
 ### 6. Report
-Write `pipeline/reports/daily_<YYYY-MM-DD>.md`: counts of jobs found / selected / skipped (with
-skip reasons), the list of tailored resumes produced (company, role, field, link), any sources
-that failed or knowledge-base gaps noticed, and — if relevant — **suggested preference updates**
-for Roy to consider adding to `pipeline/preferences.md` (this closes the feedback loop).
+Write `pipeline/reports/daily_<YYYY-MM-DD>.md` with the following sections:
+
+**Summary table** (one row per tailored resume — these columns exactly):
+
+| Company | Role | Location | Type | Source | Field | Link | PDF |
+|---|---|---|---|---|---|---|---|
+| Stripe | Software Engineer Intern | Seattle, WA | summer internship | vanshb03 | SWE | https://... | ✅ / ❌ |
+
+- **Type** must be one of: `summer internship`, `off season internship`, `new grad`
+- **PDF** column: ✅ if `resume.pdf` was successfully compiled and committed, ❌ + reason if not
+
+**Counts:** jobs found in sources / passed filters / skipped (with skip reasons) / tailored
+
+**Source health:** which sources fetched OK, which failed
+
+**KB gaps:** any knowledge-base gaps noticed during tailoring (missing metrics, thin files)
+
+**Suggested preference updates:** any patterns noticed that Roy may want to add to
+`pipeline/preferences.md` to improve future tailoring
 
 ### 7. Open one PR
 Create a branch `tailor/<YYYY-MM-DD>`, commit all new files, push, and open **one PR**:
