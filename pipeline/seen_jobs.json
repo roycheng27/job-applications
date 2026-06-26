@@ -180,5 +180,97 @@
     "first_seen": "2026-06-26",
     "status": "skipped",
     "skip_reason": "MS/PhD required"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "skydio|software-engineer-intern|san-mateo-ca": {
+    "company": "Skydio",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-database-engineering|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Database Engineering",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "tailored"
+  },
+  "avanade|software-engineering-intern|seattle-wa": {
+    "company": "Avanade",
+    "role": "Software Engineering Intern",
+    "location": "Seattle, WA",
+    "link": "https://careersus-avanade.icims.com/jobs",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-26",
+    "status": "skipped",
+    "skip_reason": "graduation_mismatch"
+  },
+  "nvidia|software-engineering-intern-flashinfer|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern, FlashInfer",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-26",
+    "status": "skipped",
+    "skip_reason": "masters_required"
   }
 }
