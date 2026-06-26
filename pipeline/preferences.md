@@ -19,6 +19,24 @@ Use it to record what you like, what to avoid, and corrections after reviewing a
 ### Wording & tone
 - _(none yet — e.g. "avoid the verb 'leveraged'", "prefer 'built' over 'developed'")_
 
+### Line budgets (strict — any violation causes a 2-page resume)
+Every element in the resume has a fixed rendered-line count. Never exceed these:
+- Awards & Programs → **1 line**
+- Certificates → **1 line**
+- Relevant Coursework → **exactly 2 lines** (highest risk; see coursework rule below)
+- Each Work/Leadership experience → **5 lines** (company/location header + role/date subheader + 3 x 1-line bullets)
+- Each Projects/Research entry → **4 lines** (header + 3 x 1-line bullets)
+- Languages / Libraries / Tools & Platforms → **1 line each**
+
+### Relevant Coursework reorder — character-boundary check
+Reordering the 10 coursework items (same text, different order) changes line-break positions and
+can inflate 2 lines → 3 lines (proved in the first cloud run: all SWE resumes overflowed because
+of this). Rule: promote only 1–3 relevant items to the front; keep the rest in base order. The
+safe base split (line 1 ≈ 97 chars) is: **line 1** = "Machine Learning, Neural Networks & Deep
+Learning, Data Analysis & Regression, Data Mining, Data Structures & Algorithms" · **line 2** =
+"Probability & Statistical Inference, Databases, NLP, Monte Carlo, Optimization". Swapping 1–2
+front items with their base counterparts is safe; reshuffling all 10 requires a char-count check.
+
 ### Bullet & content choices
 - _(none yet — e.g. "for DS roles, always surface a quantified metric in bullet 1")_
 
@@ -42,3 +60,6 @@ Use it to record what you like, what to avoid, and corrections after reviewing a
 Record dated decisions so the rationale isn't lost.
 
 - **2026-06-22** — Created preferences log. Initial behavior defined in `AGENTS.md`.
+- **2026-06-26** — Added per-element line budgets + coursework char-boundary check after first
+  cloud run produced 10 × 2-page SWE resumes. Root cause: coursework reorder shifted long items
+  to line boundaries, inflating 2 rendered lines → 3.

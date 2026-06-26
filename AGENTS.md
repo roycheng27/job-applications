@@ -115,15 +115,45 @@ Create a branch `tailor/<YYYY-MM-DD>`, commit all new files, push, and open **on
 - **Preserve structure.** Sections stay largely intact. The ONLY allowed structural move: for
   **SWE** jobs, *Projects and Research* may be placed **above** *Work and Leadership Experience*.
   No other section reordering.
-- **One page, always — safe by construction.** `resume_base.tex` is *perfectly full* (compiles to
-  exactly one page with no slack), and the agent has **no LaTeX to page-check with**. So one-page
-  safety must be guaranteed by the edit itself, not by compiling:
-  - **Never add or remove bullets, experiences, or lines.** Keep the exact same item counts.
-  - **Each edited bullet must be ≤ the character length of the bullet it replaces.** Shorter is
-    safe; longer is forbidden (a single wrapped line spills to a 2nd page). Count characters.
-  - Reordering coursework/skills items (same items, same text) is always length-safe.
+- **One page, always — safe by construction.** `resume_base.tex` is *perfectly full* (compiles
+  to exactly one page with no slack) and the agent has **no LaTeX to compile with**. One-page
+  safety must be guaranteed by construction using the **per-element line budgets** below. These
+  are the *only* allowed rendered-line counts for each element — exceeding any one of them spills
+  the resume to a 2nd page.
+
+  | Element | Rendered lines |
+  |---|---|
+  | Awards & Programs bullet | **1 line** |
+  | Certificates bullet | **1 line** |
+  | Relevant Coursework bullet | **exactly 2 lines** ← highest-risk edit |
+  | Each Work/Leadership experience | **5 lines** (1 company+location header · 1 role+date subheader · 3 bullets, 1 line each) |
+  | Each Projects/Research entry | **4 lines** (1 header · 3 bullets, 1 line each) |
+  | Languages skill line | **1 line** |
+  | Libraries/Frameworks skill line | **1 line** |
+  | Tools & Platforms skill line | **1 line** |
+
+  **Hard rules to honour the budgets:**
+  - Never add or remove bullets, experiences, or section lines.
+  - Each **edited work/project bullet** must be ≤ the character length of the bullet it replaces
+    (a single extra-long line wraps and costs a line). Count characters before writing.
+  - **Skills lines (Languages / Libraries / Tools):** reordering the exact same items is safe
+    because the total character count is unchanged and skills lines are not near a line boundary.
+  - **Relevant Coursework reorder — character-boundary check required.** Reordering the same 10
+    items can change where line breaks fall, turning 2 lines into 3 (proven: this caused every SWE
+    resume in the first cloud run to overflow). When reordering, apply this check:
+      1. List the reordered items with ", " separators and count cumulative characters.
+      2. The confirmed safe line-1 budget is **≈ 97 characters** of content (the base split is:
+         line 1 = "Machine Learning, Neural Networks & Deep Learning, Data Analysis & Regression,
+         Data Mining, Data Structures & Algorithms" · line 2 = "Probability & Statistical
+         Inference, Databases, NLP, Monte Carlo, Optimization").
+      3. If your reordered sequence places a long item ("Probability & Statistical Inference" =
+         35 chars, "Neural Networks & Deep Learning" = 31 chars, "Data Structures & Algorithms" =
+         28 chars) such that line 1 would exceed ≈ 97 chars, a 3rd line appears → **invalid**.
+      4. Safe approach: promote only the **1–3 most relevant items** to the front; keep the rest
+         in base order. Swapping the first 1–2 items with their base counterparts is always safe.
+         Reshuffling all 10 items is high risk — only do it after a character-boundary check passes.
   - Roy's **local compile is the final gate** (he compiles each PR's `.tex` with MacTeX before
-    use); the agent's job is to make that compile come out at one page every time.
+    use); but the agent's job is to make that compile come out at 1 page every time.
 - **Prefer editing over replacing.** The experiences in `resume_base.tex` are the general
   strongest set. **Do not swap an experience** unless a job's qualifications make it clearly
   necessary; default to editing existing experiences/bullets to surface the right keywords.
