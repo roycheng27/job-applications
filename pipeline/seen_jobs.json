@@ -8,5 +8,210 @@
     "field": "AI-MLE",
     "first_seen": "2026-06-22",
     "status": "tailored"
+  },
+  "tiktok|llm-post-training-engineer-intern|san-jose-ca": {
+    "company": "TikTok",
+    "role": "LLM Post-training Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7631599293708126517",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "notion|software-engineer-ai-intern|san-francisco-ca": {
+    "company": "Notion",
+    "role": "Software Engineer, AI Intern",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "tesla|machine-learning-engineer-intern-nvh-engineering|fremont-ca": {
+    "company": "Tesla",
+    "role": "Machine Learning Engineer Intern, NVH Engineering",
+    "location": "Fremont, CA",
+    "link": "https://www.tesla.com/careers/search/job/244786",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "salesforce|software-engineer-intern|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-amazon-leo|sunnyvale-ca": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, Amazon Leo",
+    "location": "Sunnyvale, CA",
+    "link": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "amazon|robotics-software-development-engineer-intern|sunnyvale-ca": {
+    "company": "Amazon",
+    "role": "Robotics Software Development Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "link": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "uber|software-engineering-intern|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://university-uber.icims.com/jobs/159161/job",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-core-engineering|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Core Engineering",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "apple|software-engineer-intern-undergrad|united-states": {
+    "company": "Apple",
+    "role": "Software Engineer Intern, Undergrad",
+    "location": "United States",
+    "link": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "tiktok|software-engineer-intern-recommendation-infrastructure|seattle-wa": {
+    "company": "TikTok",
+    "role": "Software Engineer Intern, Recommendation Infrastructure",
+    "location": "Seattle, WA",
+    "link": "https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "notion|software-engineer-intern|san-francisco-ca": {
+    "company": "Notion",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "nbcuniversal|software-engineering-intern|new-york-ny": {
+    "company": "NBCUniversal",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "liveramp|software-engineer-intern-pixel-serving|new-york-ny": {
+    "company": "LiveRamp",
+    "role": "Software Engineer Intern, Pixel Serving",
+    "location": "New York, NY",
+    "link": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "meta|data-engineer-analytics|new-york-ny": {
+    "company": "Meta",
+    "role": "Data Engineer, Analytics",
+    "location": "New York, NY",
+    "link": "https://www.metacareers.com/jobs/2578176955882259",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "amazon|business-intelligence-engineer-co-op|seattle-wa": {
+    "company": "Amazon",
+    "role": "Business Intelligence Engineer Co-Op",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-06-24",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern-jax|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern (JAX)",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "pathai|machine-learning-intern|boston-ma": {
+    "company": "PathAI",
+    "role": "Machine Learning Intern",
+    "location": "Boston, MA",
+    "link": "https://www.pathai.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "rippling|machine-learning-engineer-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Machine Learning Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/rippling/jobs",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "bmo|machine-learning-intern|chicago-il": {
+    "company": "BMO",
+    "role": "Machine Learning Intern",
+    "location": "Chicago, IL",
+    "link": "https://jobs.bmo.com",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-24",
+    "status": "skipped",
+    "reason": "posting_removed"
+  },
+  "aquatic-capital|software-engineer-intern|chicago-il": {
+    "company": "Aquatic Capital",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/aquaticcapitalmanagement",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-06-24",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
