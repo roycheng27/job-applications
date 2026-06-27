@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "tesla|software-engineer-intern-service-engineering|fremont-ca": {
+    "company": "Tesla",
+    "role": "Software Engineer Intern, Service Engineering",
+    "location": "Fremont, CA",
+    "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/rippling/jobs/software-engineer-intern",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "nbcuniversal|software-engineering-intern|universal-city-ca": {
+    "company": "NBCUniversal",
+    "role": "Software Engineering Intern",
+    "location": "Universal City, CA",
+    "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000054380185",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "remitly|software-development-engineer-1-pricing-platform|seattle-wa": {
+    "company": "Remitly",
+    "role": "Software Development Engineer 1, Pricing Platform",
+    "location": "Seattle, WA",
+    "link": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-1--Pricing-Platform_R_102982",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "tailored"
+  },
+  "nvidia|applied-ai-software-engineer-intern|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Applied AI Software Engineer Intern",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-27",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "etched|inference-engineer-intern|san-jose-ca": {
+    "company": "Etched",
+    "role": "Inference Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://job-boards.greenhouse.io/etched",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-27",
+    "status": "skipped",
+    "reason": "hardware_architecture_role"
   }
 }
