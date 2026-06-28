@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
+  },
+  "zoox|platform-intelligence-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Platform Intelligence Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern|new-york-ny-san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
+  },
+  "tesla|software-engineer-intern-service-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Engineer Intern, Service Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
+  },
+  "skydio|software-engineer-intern|san-mateo-ca": {
+    "company": "Skydio",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-28",
+    "status": "tailored"
   }
 }
