@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "waymo|software-engineer-ml-tools|mountain-view-ca": {
+    "company": "Waymo",
+    "role": "Software Engineer, ML Tools",
+    "location": "Mountain View, CA",
+    "link": "https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/6954161/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "tesla|software-engineer-intern-service-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Engineer Intern, Service Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern|new-york-ny-/-san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "tailored"
+  },
+  "bytedance|new-grad-2026-ml-graduate-ecommerce-user-growth|seattle-wa": {
+    "company": "ByteDance",
+    "role": "New Grad 2026 Machine Learning Graduate, Ecommerce User Growth",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7470219501699380490/detail",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-06-29",
+    "status": "skipped",
+    "reason": "graduation_mismatch_2026_start"
+  },
+  "notion|new-grad-software-engineer|san-francisco-ca": {
+    "company": "Notion",
+    "role": "New Grad Software Engineer",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/notion/jobs/6539292003",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "skipped",
+    "reason": "graduation_mismatch_2026_start"
+  },
+  "snowflake|software-engineer-intern-database-engineering|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Database Engineering",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/database-engineering-fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-06-29",
+    "status": "skipped",
+    "reason": "posting_removed"
   }
 }
