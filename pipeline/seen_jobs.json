@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "tesla|software-machine-learning-engineer-intern-reliability-energy-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software & Machine Learning Engineer Intern, Reliability & Energy Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/248920",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "google|software-engineer-ii-early-career|multiple": {
+    "company": "Google",
+    "role": "Software Engineer II, Early Career",
+    "location": "Multiple Locations (US)",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/143333237156913862-software-engineer-ii/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-2026|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer 2026",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "apple|software-engineer-early-career|multiple-us": {
+    "company": "Apple",
+    "role": "Software Engineer, Early Career",
+    "location": "Multiple US Locations",
+    "link": "https://jobs.apple.com/en-us/details/200643885-0157/software-engineer-is-t-early-career-opportunities",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny-boston-ma": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY / Boston, MA",
+    "link": "https://careers.datadoghq.com/detail/6954161",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|menlo-park-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "Menlo Park, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-01",
+    "status": "tailored"
+  },
+  "nvidia|applied-ai-engineer-silicon-co-design-group|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Applied AI Engineer, Silicon Co-Design Group",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-01",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
