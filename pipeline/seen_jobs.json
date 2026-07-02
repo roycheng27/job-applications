@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "zoox|platform-intelligence-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Platform Intelligence Intern",
+    "location": "Foster City, CA",
+    "link": "https://zoox.com/careers/platform-intelligence-intern",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
+  },
+  "tesla|software-engineer-intern-service-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Engineer Intern, Service Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern|new-york-ny": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
+  },
+  "avanade|software-engineering-intern|los-angeles-ca": {
+    "company": "Avanade",
+    "role": "Software Engineering Intern",
+    "location": "Los Angeles, CA",
+    "link": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
+  },
+  "nbcuniversal|software-engineering-intern|universal-city-ca": {
+    "company": "NBCUniversal",
+    "role": "Software Engineering Intern",
+    "location": "Universal City, CA",
+    "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-02",
+    "status": "tailored"
   }
 }
