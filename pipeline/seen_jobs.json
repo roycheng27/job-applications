@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|student-researcher-multimodal-interaction-world-model-seed|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Multimodal Interaction & World Model (Seed)",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7623548747208739077",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "zoox|platform-intelligence-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Platform Intelligence Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "google|software-engineer-early-career|sunnyvale-ca": {
+    "company": "Google",
+    "role": "Software Engineer, Early Career",
+    "location": "Sunnyvale, CA",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern-backend|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Backend Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/rippling/jobs",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|san-mateo-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "San Mateo, CA",
+    "link": "https://careers.snowflake.com/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-03",
+    "status": "tailored"
+  },
+  "bytedance|student-researcher-vision-foundation-model-seed|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Vision Foundation Model (Seed)",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-03",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-03",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
