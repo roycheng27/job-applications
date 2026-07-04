@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineer-ii-early-career-cloud-ai|sunnyvale-ca": {
+    "company": "Google",
+    "role": "Software Engineer II, Early Career, Google Cloud AI Catalyst Program",
+    "location": "Sunnyvale, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program?utm_source=vansh",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "tiktok|machine-learning-engineer-new-grad|san-jose-ca": {
+    "company": "TikTok",
+    "role": "New Grad 2026: Machine Learning Engineer",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7559731427425257746?utm_source=vansh",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "tesla|ai-engineer-reinforcement-learning-self-driving|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "AI Engineer, Reinforcement Learning, Self-Driving",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/259019?utm_source=vansh",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "tiktok|aiml-software-engineer-data-platform|san-jose-ca": {
+    "company": "TikTok",
+    "role": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7541178634444589319?utm_source=vansh",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us?utm_source=vansh",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "doordash|software-engineer-i|multiple": {
+    "company": "DoorDash",
+    "role": "New Grad: Software Engineer I",
+    "location": "Multiple",
+    "link": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/?utm_source=vansh",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "figma|software-engineer-full-stack|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer, Full Stack",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/5691911004?utm_source=vansh",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-04",
+    "status": "tailored"
+  },
+  "adobe|software-development-engineer|san-jose-ca": {
+    "company": "Adobe",
+    "role": "Software Development Engineer",
+    "location": "San Jose, CA",
+    "link": "https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer?utm_source=vansh",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-04",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "stripe|security-engineer-new-grad|seattle-wa": {
+    "company": "Stripe",
+    "role": "New Grad: Security Engineer",
+    "location": "Seattle, WA",
+    "link": "https://stripe.com/jobs/listing/security-engineer-new-grad/7477571?utm_source=vansh",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-04",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
