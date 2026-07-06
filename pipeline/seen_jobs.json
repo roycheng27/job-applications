@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "zoox|platform-intelligence-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Platform Intelligence Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
+  },
+  "etched|inference-intern-architecture|san-jose-ca": {
+    "company": "Etched",
+    "role": "Inference Intern, Architecture",
+    "location": "San Jose, CA",
+    "link": "https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
+  },
+  "tesla|software-engineer-intern-service-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Engineer Intern, Service Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
+  },
+  "cubist-systematic-strategies|quantitative-developer-intern|new-york-ny": {
+    "company": "Cubist Systematic Strategies",
+    "role": "Quantitative Developer Intern",
+    "location": "New York, NY",
+    "link": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
+  },
+  "veeam-software|software-engineering-intern-platform-security-ai|san-jose-ca": {
+    "company": "Veeam Software",
+    "role": "Software Engineering Intern, Platform, Security & AI",
+    "location": "San Jose, CA",
+    "link": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
+  },
+  "poshmark|cloud-platform-engineer-intern-growth|redwood-city-ca": {
+    "company": "Poshmark",
+    "role": "Cloud Platform Engineer Intern, Growth",
+    "location": "Redwood City, CA",
+    "link": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-06",
+    "status": "tailored"
   }
 }
