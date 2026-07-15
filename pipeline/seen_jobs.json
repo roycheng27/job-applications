@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "terranox-ai|ai-ml-engineering-intern|remote-us": {
+    "company": "Terranox AI",
+    "role": "AI/ML Engineering Intern",
+    "location": "Remote, US",
+    "link": "https://jobs.ashbyhq.com/terranoxai",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "uber|software-engineer-i|seattle-wa": {
+    "company": "Uber",
+    "role": "Software Engineer I",
+    "location": "Seattle, WA",
+    "link": "https://www.uber.com/global/en/careers/list/132236/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|new-york-ny": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "de-shaw-group|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw Group",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "jump-trading|campus-software-engineer-intern|chicago-il": {
+    "company": "Jump Trading",
+    "role": "Campus Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://jumptrading.com/hr/job?gh_jid=8002989",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "anduril-industries|software-engineer-intern|seattle-wa": {
+    "company": "Anduril Industries",
+    "role": "Software Engineer Intern",
+    "location": "Seattle, WA",
+    "link": "https://jobs.lever.co/anduril/software-engineer-intern",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "tower-research-capital|quantitative-developer-intern|new-york-ny": {
+    "company": "Tower Research Capital",
+    "role": "Quantitative Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.tower-research.com/open-positions?gh_jid=6095555",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "tailored"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.com/us/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-15",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
