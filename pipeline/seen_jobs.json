@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|applied-ai-engineer|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Applied AI Engineer",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "google|software-engineer-ii-early-career-ai-catalyst|united-states": {
+    "company": "Google",
+    "role": "Software Engineer II - Early Career (AI Catalyst)",
+    "location": "United States",
+    "link": "https://www.google.com/about/careers/applications/jobs/results",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "jump-trading|software-engineer-intern|chicago-il": {
+    "company": "Jump Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.jumptrading.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|chicago-il": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.citadel.com/careers/open-opportunities/students/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "uber|software-engineer-i|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "link": "https://www.uber.com/careers/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "anduril|software-engineer-intern|seattle-wa": {
+    "company": "Anduril Industries",
+    "role": "Software Engineer Intern",
+    "location": "Seattle, WA",
+    "link": "https://www.anduril.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "tailored"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-16",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
