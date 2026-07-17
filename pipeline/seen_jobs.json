@@ -213,5 +213,130 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|new-york-ny": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "de-shaw-group|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw Group",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "neuralink|software-engineer-intern-bci-applications|fremont-ca": {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern, BCI Applications",
+    "location": "Fremont, CA",
+    "link": "https://job-boards.greenhouse.io/neuralink/jobs/6594422003",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "jump-trading|software-engineer-intern|chicago-il": {
+    "company": "Jump Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.jumptrading.com/careers/6261601/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://optiver.com/working-at-optiver/career-opportunities/7495502002/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/1732/79982459408",
+    "source": "sndsh404",
+    "field": "DA-DS",
+    "first_seen": "2026-07-17",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/ML-Research-Intern",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-17",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "hudson-river-trading|software-engineer-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6185666",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "uber|software-engineer-i|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "link": "https://www.uber.com/global/en/careers/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-17",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "jump-trading|quantitative-trader-intern|chicago-il": {
+    "company": "Jump Trading",
+    "role": "Quantitative Trader Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.jumptrading.com/careers/",
+    "source": "vanshb03",
+    "field": "other",
+    "first_seen": "2026-07-17",
+    "status": "skipped",
+    "reason": "out_of_role_family"
+  },
+  "tower-research-capital|quantitative-developer-intern|new-york-ny": {
+    "company": "Tower Research Capital",
+    "role": "Quantitative Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.tower-research.com/open-positions",
+    "source": "vanshb03",
+    "field": "other",
+    "first_seen": "2026-07-17",
+    "status": "skipped",
+    "reason": "out_of_role_family"
   }
 }
