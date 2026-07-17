@@ -1,0 +1,171 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+% Latin Modern ships no bold small-caps face; resolve the heading's
+% bold+small-caps request to bold (its current rendering) without a warning.
+\input{t1lmr.fd}
+\DeclareFontShape{T1}{lmr}{bx}{sc}{<->ssub*lmr/bx/n}{}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\footskip}{4.08003pt}
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.6in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-0.7in}
+\addtolength{\textheight}{1.6in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+\pdfgentounicode=1
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      #1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[itemsep= 1.5pt, parsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%----------HEADING----------
+\begin{center}
+    \textbf{\LARGE \scshape Roy (Yuanxi) Cheng} \\ \vspace{3pt}
+    \small Laguna Niguel, CA $|$ (949) 378-0596 $|$
+    \href{mailto:roycheng27@ucla.edu}{\underline{roycheng27@ucla.edu}} $|$
+    \href{https://www.linkedin.com/in/ycheng05}{\underline{linkedin.com/in/ycheng05}}
+\end{center}
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of California, Los Angeles (UCLA)}{Sep 2023 -- Mar 2027}
+      {Bachelor of Science in Statistics and Data Science, Minor in Data Science Engineering}{GPA: 3.75}
+      \resumeItemListStart
+        \resumeItem{\textbf{Awards \& Programs:} Dean's Honor's List, Persolv AI Intensive, BCG Case Comp Semi-finalist}
+        \resumeItem{\textbf{Certificates:} Data Science \& SQL in Python, EDA in R, Data Manipulation with dplyr, Data Visualization with ggplot2}
+        \resumeItem{\textbf{Relevant Coursework:} Data Structures \& Algorithms, Machine Learning, Neural Networks \& Deep Learning, Data Analysis \& Regression, Data Mining, Probability \& Statistical Inference, Databases, NLP, Monte Carlo, Optimization}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%-----------PROJECTS AND RESEARCH-----------
+\section{Projects and Research}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Biomedical Tissue Imaging} $|$ \textit{Python, PyTorch, YOLOv8, Pandas, NumPy, Matplotlib, OpenCV}}{}
+          \resumeItemListStart
+            \resumeItem{Published article evaluating CNN-based instance segmentation architectures with AP metrics, benchmarking cytoplasm boundary precision for biomedical imaging}
+            \resumeItem{Converted 4k+ CytoNuke annotations to COCO format through a custom data pipeline, enabling standardized training across 3 segmentation architectures}
+            \resumeItem{Trained and tuned YOLOv8 instance segmentation models in PyTorch, improving cytoplasm AP50 by 5\% over the Cyto-RCNN baseline}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{COVID Pandemic Effects on Secondary Education} $|$ \textit{Python, Pandas, Tableau, Excel, Matplotlib}}{}
+          \resumeItemListStart
+            \resumeItem{Cleaned and merged 100k+ student records across multi-level datasets with pandas, enabling accurate longitudinal analysis in Tableau}
+            \resumeItem{Aggregated 4 years of test scores into time series visualizations, revealing a 15\% average decline in student performance}
+            \resumeItem{Created an interactive Tableau map linking geographic data to score changes across 50 U.S. states for a public research website}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Adrenaline and Cognitive Fatigue Effects on Athletic Performance} $|$ \textit{R, ggplot2, tidyverse, dplyr}}{}
+          \resumeItemListStart
+            \resumeItem{Designed $2^3$ factorial experiment with 96 participants across 8 conditions, blocking by age and gender to reduce variance}
+            \resumeItem{Conducted three-way ANOVA and Tukey post hoc tests in R, revealing no significant interactions at $\alpha = 0.05$}
+            \resumeItem{Validated ANOVA assumptions using log transformation and ggplot2 diagnostics, confirming normality and homoscedasticity of residuals}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+%-----------WORK AND LEADERSHIP EXPERIENCE-----------
+\section{Work and Leadership Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Capital One}{McLean, Virginia}
+      {Product Management and Analysis Intern}{Jun 2026 -- Present}
+      \resumeItemListStart
+        \resumeItem{Analyze corporate-wide people data with SQL and Python, identifying factors tied to successful organizational transitions across business units}
+        \resumeItem{Synthesize findings into a mock HRBP dashboard of key reorg metrics, presenting to SVP to help HRBPs track retention, mobility, and headcount during reorganizations}
+        \resumeItem{Architect a 6-stage Python pipeline ingesting 1,459 Snowflake performance reviews through PII anonymization, BGE semantic filtering, and FAISS retrieval before routing to an LLM DWA scoring agent}
+        \resumeItem{Build a custom LLM client with sliding-window token rate limiting and retry-aware backoff to maintain reliable multi-hour inference throughput across the production review-processing pipeline}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Data Science Union}{Los Angeles, California}
+      {External Vice President}{Dec 2025 -- Present}
+      \resumeItemListStart
+        \resumeItem{Directed external strategy across client partnerships, marketing, and professional development, expanding consulting and career opportunities for members}
+        \resumeItem{Managed 3 directors and coordinated executive board priorities, aligning cross-functional execution to deliver quarterly and annual objectives}
+        \resumeItem{Cultivated industry and alumni partnerships, securing client data science projects and expanding career programming across the organization}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Kohl's}{Los Angeles, California}
+      {Project Manager and Data Analyst}{Jun 2025 -- Mar 2026}
+      \resumeItemListStart
+        \resumeItem{Processed 8.5M+ logistics records in BigQuery with SQL, building validation logic that removed duplicate records and impossible event sequences}
+        \resumeItem{Developed and deployed a two-stage XGBoost forecasting system simulating live milestone updates, cutting shipment arrival MAE by 83\%}
+        \resumeItem{Engineered feature pipelines for route, carrier, and seasonality signals in Vertex AI Workbench, improving transit time forecast accuracy}
+      \resumeItemListEnd
+    \resumeSubheading
+      {ACTUM Digital}{Prague, Czech Republic}
+      {Data Analyst and AI Intern}{Jun 2025 -- Aug 2025}
+      \resumeItemListStart
+        \resumeItem{Built agentic Python pipelines to filter documents, generate metadata, and embed content into a Milvus vector database for AI-assisted retrieval}
+        \resumeItem{Integrated an MCP server and authored prompt workflows for an internal AI assistant, co-presenting the live demo to ACTUM executives}
+        \resumeItem{Automated extraction of structured data from 600+ unstructured PDFs with Python scripts, consolidating output into a centralized reporting dataset}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Million Dollar Baby}{Los Angeles, California}
+      {Data Analysis Consultant}{Apr 2025 -- Jun 2025}
+      \resumeItemListStart
+        \resumeItem{Analyzed \$10M+ in advertising spend with SQL, surfacing efficiency insights that informed growth strategy and marketing investment decisions}
+        \resumeItem{Presented CAC and RoAS assessments across multiple attribution windows, guiding stakeholder decisions on marketing spend allocation}
+        \resumeItem{Built an Excel dashboard tracking 20+ marketing KPIs, giving brand managers a recurring view of acquisition and return trends}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, C++, Java, SQL, R, JavaScript} \\
+     \textbf{Libraries/Frameworks}{: pandas, NumPy, PyTorch, scikit-learn, Matplotlib, TensorFlow, Keras, XGBoost, LangChain, MLflow} \\
+     \textbf{Tools \& Platforms}{: Git, GitHub, AWS, GCP, Claude Code, BigQuery, Snowflake, Vertex AI, Tableau, Jupyter Notebooks}
+    }}
+ \end{itemize}
+%-------------------------------------------
+\end{document}

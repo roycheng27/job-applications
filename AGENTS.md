@@ -41,7 +41,9 @@ Extract rows into records: `{company, role, location, date, link, source, type}`
 field is derived from the source file used:
 - `vanshb03` main README → `"summer internship"`
 - `vanshb03` OFFSEASON_README → `"off season internship"`
+- `sndsh404` README → `"summer internship"`
 - `cvrve/New-Grad` README → `"new grad"`
+- `newgrad-jobs.com` → default `"new grad"`; if role title contains "intern" → `"summer internship"`; if title contains "co-op" or "off-cycle" → `"off season internship"`
 - `intern-list.com` → infer from role/title ("Intern" → `"summer internship"` as default; if role
   mentions "off-cycle" or "co-op" → `"off season internship"`; if no "intern" in title → `"new grad"`)
 
@@ -87,8 +89,14 @@ c. **Route the knowledge base.** Open `knowledgebase/00_INDEX.md`, find the role
    row in the Routing Table + the matching Quick-load set. Load **only** the 3–6 routed
    experience files (plus the INDEX). Respect the INDEX's exclusions.
 
-d. **Tailor** a copy of `resume_base.tex` following the **Resume Editing Rules** below. Surface
-   the JD's keywords/skills/tools by editing existing bullets, skills, and coursework first.
+d. **Tailor** a copy of the role-specific base template for the classified field:
+   - `templates/resume_AI-MLE_base.tex` for AI-MLE roles
+   - `templates/resume_SWE_base.tex` for SWE roles
+   - `templates/resume_DA-DS_base.tex` for DA-DS roles
+   Fall back to `resume_base.tex` only if the template file is missing.
+   Each template is pre-optimized for its role family (bullet order, skills priority, project
+   order already set). Follow the **Resume Editing Rules** below to further surface the JD's
+   specific keywords/skills/tools by editing bullets, skills, and coursework.
 
 e. **Write the metadata comment block** at the very top of the tailored `.tex` (format below),
    accurately listing keywords added and every change made vs base.

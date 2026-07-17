@@ -14,6 +14,7 @@ re-reads it every run, so tune behavior by editing here — no code changes need
 | vanshb03 — Summer 2027 Internships | `https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/main/README.md` | Summer internships |
 | vanshb03 — Off-season Internships | `https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/main/OFFSEASON_README.md` | Winter / off-cycle internships |
 | cvrve — New Grad | `https://raw.githubusercontent.com/cvrve/New-Grad/main/README.md` | New-grad full-time roles |
+| sndsh404 — Summer 2027 Internships | `https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md` | Summer internships |
 
 Table columns: Company / Role / Location / Date (Age). Markers: 🔒 = closed (skip), 🛂 = no
 sponsorship (note but do not auto-skip), 🇺🇸 = citizenship required (note).
@@ -23,12 +24,30 @@ sponsorship (note but do not auto-skip), 🇺🇸 = citizenship required (note).
 
 ### Best-effort (JavaScript-rendered — static fetch returns only a shell)
 
+**newgrad-jobs.com** (attempt all five; use whatever rows come back):
+
+| URL | Role family | Field routing |
+|---|---|---|
+| `https://www.newgrad-jobs.com/?k=aiml` | AI / ML | AI-MLE |
+| `https://www.newgrad-jobs.com/?k=swe` | SWE | SWE |
+| `https://www.newgrad-jobs.com/?k=da` | Data Analyst | DA-DS |
+| `https://www.newgrad-jobs.com/?k=de` | Data Engineer | SWE |
+| `https://www.newgrad-jobs.com/?k=ba` | Business Analyst | DA-DS |
+
+Type derivation for newgrad-jobs.com: default `"new grad"`. If the job title contains "intern"
+or "co-op" → use `"summer internship"` or `"off season internship"` as appropriate.
+
+**Fallback chain if newgrad-jobs.com pages return nothing:**
+1. WebSearch `site:jobright.ai <role> intern 2027` to surface individual job listings from Jobright (no public API — WebSearch is the best available lever).
+2. If that yields nothing useful, the GitHub tables carry the run — do not block.
+
+**intern-list.com** (legacy, best-effort):
 - `https://www.intern-list.com/?k=aiml` (AI / ML)
 - `https://www.intern-list.com/?k=da` (Data Analysis)
 - `https://www.intern-list.com/?k=swe` (SWE)
 
-Attempt these and use whatever rows come back, but **do not block the run** if they yield
-nothing — the GitHub tables are the dependable backbone.
+Attempt all best-effort sources and use whatever rows come back, but **do not block the run** if
+they yield nothing — the GitHub tables are the dependable backbone.
 
 ---
 

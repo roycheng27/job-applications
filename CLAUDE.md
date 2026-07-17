@@ -2,8 +2,9 @@
 
 ## What this repo does
 
-Automated daily pipeline that scrapes newly-posted internship/new-grad jobs, tailors a copy of
-Roy's LaTeX resume to each job, compiles a PDF, and opens a single daily PR for review.
+Automated daily pipeline that scrapes newly-posted internship/new-grad jobs, tailors a
+role-specific LaTeX resume to each job (starting from a pre-optimized field template), compiles
+a PDF, and opens a single daily PR for review.
 
 **Owner:** Roy (Yuanxi) Cheng · UCLA Statistics & Data Science · Grad: Mar 2027  
 **Routine:** scheduled cloud agent, runs daily at 5 PM ET · ID: `trig_01LwQBRnBNGQV9wsxLXZDkcY`  
@@ -16,6 +17,9 @@ Roy's LaTeX resume to each job, compiles a PDF, and opens a single daily PR for 
 | File | Role |
 |---|---|
 | `resume_base.tex` | Master template — **never modify**; also the gold-standard for bullet quality |
+| `templates/resume_AI-MLE_base.tex` | Pre-optimized base for ML/DS roles — pipeline's starting point for AI-MLE tailoring |
+| `templates/resume_SWE_base.tex` | Pre-optimized base for SWE roles (Projects above Work Exp; C++/Java promoted) |
+| `templates/resume_DA-DS_base.tex` | Pre-optimized base for DA/analyst roles (SQL first; Tableau/BigQuery lead Tools) |
 | `AGENTS.md` | Full pipeline spec + hard editing rules — the cloud agent reads this every run |
 | `pipeline/preferences.md` | **Edit this to tune behavior.** Read every run; overrides AGENTS.md defaults |
 | `pipeline/sources.md` | Job source URLs, location allowlist, role priorities, daily cap (currently 7) |
@@ -90,7 +94,9 @@ confirmed base split at ≈97 chars/line is:
 |---|---|---|
 | vanshb03 Summer2027-Internships README | `summer internship` | raw GitHub |
 | vanshb03 OFFSEASON_README | `off season internship` | raw GitHub |
+| sndsh404 Summer2027-Internships README | `summer internship` | raw GitHub |
 | cvrve/New-Grad README | `new grad` | raw GitHub |
+| newgrad-jobs.com (aiml/swe/da/de/ba) | `new grad` (or infer from title) | best-effort JS |
 | intern-list.com (aiml/da/swe) | best-effort (JS-rendered) | — |
 
 Freshness = not in `seen_jobs.json` (no date cutoff — sources update sparsely).  
