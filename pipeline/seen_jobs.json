@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineer-ii-early-career|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineer II, Early Career",
+    "location": "Multiple US",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/143333237156913862",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "uber|software-engineer-i|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.uber.com/en/jobs/160017/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|multiple-us": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "Multiple US",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|chicago-il": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "jump-trading|software-engineer-intern|chicago-il": {
+    "company": "Jump Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.jumptrading.com/careers/6391963/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-5765",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-18",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.wd5.myworkdayjobs.com/IMC/job/Chicago/Machine-Learning-Research-Intern",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-18",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
