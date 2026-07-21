@@ -1,26 +1,29 @@
-# Software Engineering Intern @ Uber
+# Software Engineering Intern (Career Prep) @ Uber
 
-**Company:** Uber  
-**Role:** Software Engineering Intern  
-**Location:** San Francisco, CA  
-**Type:** Off-season Internship  
-**Source:** vanshb03-offseason  
-**Link:** https://university-uber.icims.com/jobs/159161/job  
-**Date pulled:** 2026-06-24  
-**Field:** SWE  
+**Link:** https://jobs.uber.com/en/jobs/300697/
+**Source:** sndsh404
+**Location:** San Francisco, CA
+**Type:** Summer internship
+**Field:** SWE
+**Date added:** 2026-07-21
+**Note:** Direct JD URL returned 403; requirements inferred from Uber SWE Intern Career Prep posting via web search. Distinct from vanshb03-offseason Uber SWE entry (jobs.uber.com/en/jobs/153495/) already in seen_jobs.
 
-## Key Qualifications & Keywords
+## Role Summary
+Software Engineering Intern in Uber's Career Prep program. Build scalable, reliable backend services and infrastructure across Uber's platform. Focus on reliable systems, production-quality code, and scalable pipeline development.
 
-- Python, Java, Go, or C++
-- Distributed systems, backend engineering
-- REST APIs, microservices
-- Data structures and algorithms
-- Experience with large-scale data pipelines a plus
+## Key Requirements (inferred)
+- Pursuing BS in Computer Science or related technical field
+- Strong programming ability in Python, Java, or Go
+- Experience with scalable backend services or distributed infrastructure
+- Familiarity with AWS/GCP cloud platforms
+- Focus on production reliability and observability
 
-## Tailoring Notes
+## Keywords Targeted
+scalable infrastructure, reliable systems, pipeline, production, AWS, Python, Java
 
-- Projects section moved above Work Experience
-- Coursework reordered: Data Structures & Algorithms, Databases first
-- Skills Languages: Python, C++, Java first
-- Bullets unchanged; Kohl's 8.5M-record pipeline + Biomedical 4k-annotation pipeline demonstrate scale
-- JD link returned 403; keywords inferred from Uber SWE intern standard posting
+## Qualifications Match
+- Capital One: LLM client with sliding-window rate limiting and retry-aware backoff for reliable multi-hour inference
+- Capital One: 6-stage Python pipeline at production scale
+- Kohl's B2 rewritten to "Built and deployed a two-stage XGBoost pipeline... cutting shipment arrival MAE by 83%"
+- AWS listed before GCP in Tools (Uber uses AWS heavily)
+- Python, Java in languages

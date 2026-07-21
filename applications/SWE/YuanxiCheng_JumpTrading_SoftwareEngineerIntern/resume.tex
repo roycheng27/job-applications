@@ -1,13 +1,13 @@
 % === TAILORED RESUME METADATA ===
-% Job:        Software Engineering Intern (Summer 2027, Uber Career Prep) @ Uber
-% Link:       https://jobs.uber.com/en/jobs/300697/
-% Source:     sndsh404
+% Job:        Software Engineer Intern @ Jump Trading
+% Link:       https://www.jumptrading.com/careers/6542219/
+% Source:     vanshb03
 % Field:      SWE
 % Tailored:   2026-07-21
-% Keywords added: scalable infrastructure, pipeline, reliable systems, Java, Python
+% Keywords added: C++, low-latency, systems, algorithms, data quality, production
 % Changes vs base:
-%   - Experience "Kohl's": bullet 2 rewritten to surface "pipeline" framing
-%   - Skills line reordered: Languages — Java promoted to second; Tools — AWS before GCP
+%   - Experience "Kohl's": bullet 1 rewritten to surface "data quality" and "production-ready" framing
+%   - Skills line reordered: Languages — C++ promoted to first (Jump Trading C++ focus)
 %   - Coursework reordered: none (Data Structures & Algorithms already leads)
 % ================================
 \documentclass[letterpaper,11pt]{article}
@@ -46,12 +46,20 @@
   \vspace{-10pt}\scshape\raggedright\large
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 \pdfgentounicode=1
-\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
     \end{tabular*}\vspace{-7pt}
 }
 \newcommand{\resumeProjectHeading}[2]{
@@ -131,8 +139,8 @@
       {Kohl's}{Los Angeles, California}
       {Project Manager and Data Analyst}{Jun 2025 -- Mar 2026}
       \resumeItemListStart
-        \resumeItem{Processed 8.5M+ logistics records in BigQuery with SQL, building validation logic that removed duplicate records and impossible event sequences}
-        \resumeItem{Built and deployed a two-stage XGBoost pipeline simulating live milestone updates, cutting shipment arrival MAE by 83\%}
+        \resumeItem{Processed 8.5M+ logistics records in BigQuery with SQL, resolving data quality issues to build a clean, production-ready shipment dataset}
+        \resumeItem{Developed and deployed a two-stage XGBoost forecasting system simulating live milestone updates, cutting shipment arrival MAE by 83\%}
         \resumeItem{Engineered feature pipelines for route, carrier, and seasonality signals in Vertex AI Workbench, improving transit time forecast accuracy}
       \resumeItemListEnd
     \resumeSubheading
@@ -155,9 +163,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0in, label={}]
     \small{\item{
-     \textbf{Languages}{: Python, Java, C++, SQL, R, JavaScript} \\
+     \textbf{Languages}{: C++, Python, Java, SQL, R, JavaScript} \\
      \textbf{Libraries/Frameworks}{: pandas, NumPy, PyTorch, scikit-learn, Matplotlib, TensorFlow, Keras, XGBoost, LangChain, MLflow} \\
-     \textbf{Tools \& Platforms}{: Git, GitHub, AWS, GCP, BigQuery, Snowflake, Vertex AI, Claude Code, Tableau, Jupyter Notebooks}
+     \textbf{Tools \& Platforms}{: Git, GitHub, AWS, GCP, Claude Code, BigQuery, Snowflake, Vertex AI, Tableau, Jupyter Notebooks}
     }}
  \end{itemize}
 \end{document}
