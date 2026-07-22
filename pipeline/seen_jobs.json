@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03535/Machine-Learning-Research-Intern-Summer-2027",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-22",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|new-york-ny": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
+  },
+  "uber-technologies|software-engineer-i|seattle-wa": {
+    "company": "Uber Technologies",
+    "role": "Software Engineer I",
+    "location": "Seattle, WA",
+    "link": "https://jobs.uber.com/en/jobs/160017/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-22",
+    "status": "tailored"
   }
 }
