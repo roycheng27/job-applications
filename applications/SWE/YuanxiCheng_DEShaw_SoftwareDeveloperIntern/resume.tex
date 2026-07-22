@@ -1,13 +1,13 @@
 % === TAILORED RESUME METADATA ===
-% Job:        Software Engineering Intern (Summer 2027, Uber Career Prep) @ Uber
-% Link:       https://jobs.uber.com/en/jobs/300697/
-% Source:     sndsh404
+% Job:        Software Developer Intern @ D. E. Shaw
+% Link:       https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894
+% Source:     vanshb03
 % Field:      SWE
 % Tailored:   2026-07-21
-% Keywords added: scalable infrastructure, pipeline, reliable systems, Java, Python
+% Keywords added: C++, real-time systems, quantitative, algorithms, scalable
 % Changes vs base:
-%   - Experience "Kohl's": bullet 2 rewritten to surface "pipeline" framing
-%   - Skills line reordered: Languages — Java promoted to second; Tools — AWS before GCP
+%   - Experience "ACTUM Digital": bullet 1 rewritten to surface "real-time" framing
+%   - Skills line reordered: Languages — C++ promoted to first (DE Shaw C++ focus)
 %   - Coursework reordered: none (Data Structures & Algorithms already leads)
 % ================================
 \documentclass[letterpaper,11pt]{article}
@@ -46,12 +46,20 @@
   \vspace{-10pt}\scshape\raggedright\large
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 \pdfgentounicode=1
-\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
     \end{tabular*}\vspace{-7pt}
 }
 \newcommand{\resumeProjectHeading}[2]{
@@ -132,14 +140,14 @@
       {Project Manager and Data Analyst}{Jun 2025 -- Mar 2026}
       \resumeItemListStart
         \resumeItem{Processed 8.5M+ logistics records in BigQuery with SQL, building validation logic that removed duplicate records and impossible event sequences}
-        \resumeItem{Built and deployed a two-stage XGBoost pipeline simulating live milestone updates, cutting shipment arrival MAE by 83\%}
+        \resumeItem{Developed and deployed a two-stage XGBoost forecasting system simulating live milestone updates, cutting shipment arrival MAE by 83\%}
         \resumeItem{Engineered feature pipelines for route, carrier, and seasonality signals in Vertex AI Workbench, improving transit time forecast accuracy}
       \resumeItemListEnd
     \resumeSubheading
       {ACTUM Digital}{Prague, Czech Republic}
       {Data Analyst and AI Intern}{Jun 2025 -- Aug 2025}
       \resumeItemListStart
-        \resumeItem{Built agentic Python pipelines to filter documents, generate metadata, and embed content into a Milvus vector database for AI-assisted retrieval}
+        \resumeItem{Built Python pipelines to filter documents, generate metadata, and index content into Milvus for real-time AI-assisted knowledge retrieval}
         \resumeItem{Integrated an MCP server and authored prompt workflows for an internal AI assistant, co-presenting the live demo to ACTUM executives}
         \resumeItem{Automated extraction of structured data from 600+ unstructured PDFs with Python scripts, consolidating output into a centralized reporting dataset}
       \resumeItemListEnd
@@ -155,9 +163,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0in, label={}]
     \small{\item{
-     \textbf{Languages}{: Python, Java, C++, SQL, R, JavaScript} \\
+     \textbf{Languages}{: C++, Python, Java, SQL, R, JavaScript} \\
      \textbf{Libraries/Frameworks}{: pandas, NumPy, PyTorch, scikit-learn, Matplotlib, TensorFlow, Keras, XGBoost, LangChain, MLflow} \\
-     \textbf{Tools \& Platforms}{: Git, GitHub, AWS, GCP, BigQuery, Snowflake, Vertex AI, Claude Code, Tableau, Jupyter Notebooks}
+     \textbf{Tools \& Platforms}{: Git, GitHub, AWS, GCP, Claude Code, BigQuery, Snowflake, Vertex AI, Tableau, Jupyter Notebooks}
     }}
  \end{itemize}
 \end{document}
