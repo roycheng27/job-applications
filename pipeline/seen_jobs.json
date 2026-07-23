@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|student-researcher-multimodal-interaction-and-world-model-seed|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher (Multimodal Interaction and World Model - Seed)",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7623548747208739077",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern|denver-co": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "Denver, CO",
+    "link": "https://jobs.lever.co/palantir/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|chicago-il": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.citadel.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "jump-trading|software-engineer-intern|chicago-il": {
+    "company": "Jump Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.jumptrading.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "de-shaw-co|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw & Co.",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-23",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.imc.com/us/careers/",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-23",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
