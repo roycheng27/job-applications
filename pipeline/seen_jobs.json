@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-researcher-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Researcher Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7962502002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7962468002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "walleye-capital|investment-data-science-intern|chicago-il": {
+    "company": "Walleye Capital",
+    "role": "Investment Data Science Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/walleyecapital/jobs/4568391005",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85529270138782406",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern-production-infrastructure|seattle-wa": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern, Production Infrastructure",
+    "location": "Seattle, WA",
+    "link": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "deepgram|software-engineering-intern|remote-us": {
+    "company": "Deepgram",
+    "role": "Software Engineering Intern",
+    "location": "Remote / US",
+    "link": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-25",
+    "status": "tailored"
+  },
+  "uber|software-engineering-intern-summer-2027|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.uber.com/en/jobs/300697/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-25",
+    "status": "skipped",
+    "reason": "near_duplicate_of_existing_uber_swe_entry"
   }
 }
