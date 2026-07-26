@@ -213,5 +213,76 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-26",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-researcher-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Researcher Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-26",
+    "status": "tailored"
+  },
+  "walleye-capital|investment-data-science-intern|new-york-ny": {
+    "company": "Walleye Capital",
+    "role": "Investment Data Science Intern",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-26",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US Locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-26",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern-production-infrastructure|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern, Production Infrastructure",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-26",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-26",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/4566543101",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-26",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
