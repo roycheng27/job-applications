@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "pony-ai|research-intern|fremont-ca": {
+    "company": "Pony.ai",
+    "role": "Research Intern",
+    "location": "Fremont, CA",
+    "link": "https://pony.ai/careers",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-27",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-27",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "tesla|software-machine-learning-engineer-intern|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software / Machine Learning Engineer Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://tesla.com/careers",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
+  },
+  "hirevue|data-science-intern|remote-us": {
+    "company": "HireVue",
+    "role": "Data Science Intern",
+    "location": "Remote (US)",
+    "link": "https://jobs.smartrecruiters.com/HireVue/744000138728139-data-science-intern-fully-remote-us",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
+  },
+  "uber|software-engineer-i|san-francisco-ca": {
+    "company": "Uber",
+    "role": "Software Engineer I (New Grad)",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.uber.com/en/jobs/160017/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern-production-infrastructure|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern, Production Infrastructure",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/internships/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
+  },
+  "neuralink|software-engineer-intern-bci-applications|fremont-ca": {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern, BCI Applications",
+    "location": "Fremont, CA",
+    "link": "https://neuralink.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-27",
+    "status": "tailored"
   }
 }
