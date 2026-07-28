@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "pony-ai|research-intern-deep-learning|fremont-ca": {
+    "company": "Pony.ai",
+    "role": "Research Intern (Deep Learning)",
+    "location": "Fremont, CA",
+    "link": "https://pony.ai/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-28",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "jane-street|ml-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "ML Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
+  },
+  "walleye-capital|investment-data-science-intern|chicago-il": {
+    "company": "Walleye Capital",
+    "role": "Investment Data Science Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
+  },
+  "hirevue|data-science-intern|remote": {
+    "company": "HireVue",
+    "role": "Data Science Intern",
+    "location": "Remote (US)",
+    "link": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|united-states": {
+    "company": "Google",
+    "role": "Software Engineering Intern (BS)",
+    "location": "United States",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8599644002/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
+  },
+  "chicago-trading-company|software-engineer-intern|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-28",
+    "status": "tailored"
   }
 }
