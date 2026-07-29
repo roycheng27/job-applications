@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/janestreetcampus/jobs/7893785002",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "walleye-capital|investment-data-science-intern|remote-us": {
+    "company": "Walleye Capital",
+    "role": "Investment Data Science Intern",
+    "location": "Remote (US)",
+    "link": "https://job-boards.greenhouse.io/walleyecapital/jobs/investment-data-science-intern-2027",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs-summer-2027|sunnyvale-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS, Summer 2027",
+    "location": "Sunnyvale, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "chicago-trading-company|software-engineering-internship-summer-2027|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Software Engineering Internship, Summer 2027",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "deepgram|software-engineering-intern|remote-us": {
+    "company": "Deepgram",
+    "role": "Software Engineering Intern",
+    "location": "Remote (US)",
+    "link": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://boards.greenhouse.io/capitalone/jobs/data-analyst-intern-2027",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-29",
+    "status": "tailored"
+  },
+  "pony-ai|research-intern-deep-learning|fremont-ca": {
+    "company": "Pony.ai",
+    "role": "Research Intern (Deep Learning)",
+    "location": "Fremont, CA",
+    "link": "https://jobs.ashbyhq.com/pony.ai",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-29",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
