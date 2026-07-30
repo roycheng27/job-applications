@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "walleye-capital|investment-data-science-intern|new-york-ny": {
+    "company": "Walleye Capital",
+    "role": "Investment Data Science Intern",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern (BS)",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "anduril-industries|software-engineer-intern|irvine-ca": {
+    "company": "Anduril Industries",
+    "role": "Software Engineer Intern",
+    "location": "Irvine, CA",
+    "link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "uber|software-engineer-i|seattle-wa": {
+    "company": "Uber Technologies",
+    "role": "Software Engineer I",
+    "location": "Seattle, WA",
+    "link": "https://jobs.uber.com/en/jobs/160017/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-30",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03577/Machine-Learning-Research-Intern-Summer-2027",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-30",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
