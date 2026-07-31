@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "pony-ai|research-intern|multiple-us": {
+    "company": "Pony.ai",
+    "role": "Research Intern",
+    "location": "Multiple US",
+    "link": "https://www.pony.ai/en/career",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-31",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "anduril|software-engineering-intern|multiple-us": {
+    "company": "Anduril Industries",
+    "role": "Software Engineering Intern",
+    "location": "Multiple US",
+    "link": "https://www.anduril.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-31",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
+  },
+  "drw|software-engineering-intern|chicago-il": {
+    "company": "DRW",
+    "role": "Software Engineering Intern",
+    "location": "Chicago, IL",
+    "link": "https://drw.com/work-at-drw/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-production-infrastructure|seattle-wa": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer, Production Infrastructure (Internship)",
+    "location": "Seattle, WA",
+    "link": "https://palantir.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://capitalone.com/careers/",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
+  },
+  "chicago-trading-company|software-engineering-intern|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Software Engineering Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.chicagotrading.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
+  },
+  "hirevue|data-science-intern|remote-us": {
+    "company": "HireVue",
+    "role": "Data Science Intern",
+    "location": "Remote-US",
+    "link": "https://www.hirevue.com/company/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-31",
+    "status": "tailored"
   }
 }
