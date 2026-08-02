@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7413497002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "castleton-commodities|data-science-machine-learning-intern|stamford-ct": {
+    "company": "Castleton Commodities International",
+    "role": "Data Science / Machine Learning Intern",
+    "location": "Stamford, CT",
+    "link": "https://www.castletoncommodities.com/careers/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple US Locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/97935383821140678",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://www.ctc.com/careers",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineer-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6233653",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw & Co.",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-4803",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|chicago-il": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-02",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/4472433101",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-02",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f8",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-02",
+    "status": "skipped",
+    "reason": "clearance_concern"
   }
 }
