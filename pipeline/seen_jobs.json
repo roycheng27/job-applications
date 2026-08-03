@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|ml-researcher-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "ML Researcher Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7908921002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
+  },
+  "jane-street|ml-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "ML Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7908923002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
+  },
+  "castleton-commodities|data-science-machine-learning-intern|new-york-ny": {
+    "company": "Castleton Commodities International",
+    "role": "Data Science / Machine Learning Intern",
+    "location": "New York, NY",
+    "link": "https://www.castletoncommodities.com/opportunities/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US Locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
+  },
+  "drw|software-developer-intern|chicago-il": {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern (C++ or Python)",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-03",
+    "status": "tailored"
   }
 }
