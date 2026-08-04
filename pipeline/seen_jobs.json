@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.com/us/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-04",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "modal-labs|machine-learning-research-intern|san-francisco-ca": {
+    "company": "Modal Labs",
+    "role": "Machine Learning Research Intern",
+    "location": "San Francisco, CA",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-04",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
+  },
+  "postman|ai-engineer-intern|berkeley-ca": {
+    "company": "Postman",
+    "role": "AI Engineer Intern",
+    "location": "Berkeley, CA",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
+  },
+  "microsoft|aiml-llm-intern|redmond-wa": {
+    "company": "Microsoft",
+    "role": "AI/ML & LLM Intern",
+    "location": "Redmond, WA",
+    "link": "https://careers.microsoft.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
+  },
+  "samsara|software-engineer-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
+  },
+  "capital-one|technology-internship-program|mclean-va": {
+    "company": "Capital One",
+    "role": "Technology Internship Program",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
+  },
+  "bytedance|ai-platform-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "AI Platform Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-04",
+    "status": "tailored"
   }
 }
