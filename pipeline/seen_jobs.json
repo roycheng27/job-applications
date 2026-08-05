@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "postman|ai-engineer-intern|san-francisco-ca": {
+    "company": "Postman",
+    "role": "AI Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.postman.com/company/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "tesla|software-compiler-engineer-intern-ai-inference|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Internship, Software Compiler Engineer, AI Inference",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/internship-software-compiler-engineer-ai-inference-summer-2026-263211",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "New Grad 2027: Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "gemini|software-engineering-intern|new-york-ny": {
+    "company": "Gemini",
+    "role": "Software Engineering Intern (Fall 2026)",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/gemini/jobs/7875125",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "appian|software-engineer-2027-graduates|mclean-va": {
+    "company": "Appian",
+    "role": "Software Engineer, 2027 Graduates",
+    "location": "McLean, VA",
+    "link": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "boeing|data-analytics-intern|multiple-us": {
+    "company": "Boeing",
+    "role": "Summer 2027 Internship Program (Paid): Data Analytics Intern",
+    "location": "Multiple US",
+    "link": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-08-05",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.wd5.myworkdayjobs.com/en-US/IMC_USA/job/Chicago/Machine-Learning-Research-Intern",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-05",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.wd5.myworkdayjobs.com/en-US/IMC_USA",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-05",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "tiktok|applied-scientist-intern-april-2026|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Applied Scientist Intern (April 2026)",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7631599293708126517",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-05",
+    "status": "skipped",
+    "reason": "stale_start_date"
   }
 }
