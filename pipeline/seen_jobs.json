@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers?pid=1970393556922929",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|30-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "30 US Locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|new-york-ny-san-francisco-ca": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern-dynamo|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern, Dynamo",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
+  },
+  "drw|software-developer-intern|chicago-il": {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-06",
+    "status": "tailored"
   }
 }
