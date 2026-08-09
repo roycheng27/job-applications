@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/98335256641127110-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern-dynamo|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern, Dynamo",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "roblox|software-engineer-intern|san-mateo-ca": {
+    "company": "Roblox",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://careers.roblox.com/jobs/8072713",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer, Internship",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Internship (C++ or Python)",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "shopify|software-engineering-intern|remote": {
+    "company": "Shopify",
+    "role": "Software Engineering Internships (Winter 2027)",
+    "location": "Remote",
+    "link": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-09",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03630",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-09",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "two-sigma|ai-research-scientist-intern|new-york-ny": {
+    "company": "Two Sigma",
+    "role": "AI Research Scientist Intern",
+    "location": "New York, NY",
+    "link": "https://careers.twosigma.com/careers/JobDetail?jobId=14904",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-09",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
