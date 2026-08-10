@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern (BS)",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
+  },
+  "drw|software-developer-intern|chicago-il": {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
+  },
+  "bank-of-america|quantitative-data-analyst-summer-analyst|multiple-us": {
+    "company": "Bank of America",
+    "role": "Quantitative Data Analyst Summer Analyst",
+    "location": "Multiple US locations",
+    "link": "https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations",
+    "source": "sndsh404",
+    "field": "DA-DS",
+    "first_seen": "2026-08-10",
+    "status": "tailored"
   }
 }
