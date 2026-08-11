@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "postman|ai-engineer-intern|berkeley-ca": {
+    "company": "Postman",
+    "role": "AI Engineer Intern",
+    "location": "Berkeley, CA",
+    "link": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern-dynamo|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern, Dynamo",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "spreeai|software-engineer-intern-ai-infrastructure-training-inference|san-francisco-ca": {
+    "company": "SpreeAI",
+    "role": "Software Engineer Intern, AI Infrastructure/Training/Inference",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS, Summer 2027",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "tiktok|software-engineer-intern-tiktok-agentic-creation-aigc|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7668675500744837381",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "quora|new-grad-software-engineer|remote": {
+    "company": "Quora",
+    "role": "New Grad: Software Engineer",
+    "location": "Remote",
+    "link": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-11",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.eu.greenhouse.io/imctradingbv/jobs/4582692101",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-11",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/468c52a7-ead5-4f00-a3ae-2fc9c87c7b7f",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-11",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
