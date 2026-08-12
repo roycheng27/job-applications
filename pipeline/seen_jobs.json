@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|machine-learning-engineer-intern-applied|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Machine Learning Engineer Intern (Applied)",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7398413778008721690/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern-dynamo|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern, Dynamo",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|new-york-ny": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern",
+    "location": "Redmond, WA",
+    "link": "https://jobs.careers.microsoft.com/us/en/job/1373087/Software-Engineering-Intern-Opportunities",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
+  },
+  "gemini|software-engineering-intern|new-york-ny": {
+    "company": "Gemini",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.gemini.com/jobs/1740967",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://boards.greenhouse.io/recruitingprograms/jobs/5345510",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://campus.capitalone.com/analytics-program",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-08-12",
+    "status": "tailored"
   }
 }
