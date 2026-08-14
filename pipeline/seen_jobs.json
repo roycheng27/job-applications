@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7525855041052040455/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern (AI/ML/LLM)",
+    "location": "Redmond, WA",
+    "link": "https://jobs.microsoft.com/en-us/job/1780734/software-engineer-intern-ai-ml-llm",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|new-york-ny": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://modal.com/careers",
+    "source": "speedyapply-ai-jobs",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "tiktok|software-engineer-intern-ai-agent|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Software Engineer Intern, AI Agent",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7634207001234567890",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.samsara.com/jobs/software-engineering-intern-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple US Locations",
+    "link": "https://careers.google.com/jobs/results/software-engineering-intern-2027",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://capitalonecareers.com/job/data-analyst-intern-2027",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-08-14",
+    "status": "tailored"
+  },
+  "quora|software-engineer|remote-us": {
+    "company": "Quora",
+    "role": "Software Engineer",
+    "location": "Remote, US",
+    "link": "https://jobs.quora.com",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-14",
+    "status": "skipped",
+    "reason": "cap_reached"
+  },
+  "chicago-trading-company|associate-engineer-intern|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.chicagotrading.com/careers",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-14",
+    "status": "skipped",
+    "reason": "cap_reached"
   }
 }
