@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.imc.com/us/vacancies/internships/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-15",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "modal|ml-research-intern|new-york-ny-san-francisco-ca": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-15",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "jane-street|machine-learning-researcher-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Researcher Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-ai-ml-and-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
+  },
+  "roblox|software-engineer-intern|san-mateo-ca": {
+    "company": "Roblox",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://careers.roblox.com/jobs/8072713",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers/roles/8082091",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-15",
+    "status": "tailored"
   }
 }
