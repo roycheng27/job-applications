@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|student-researcher-multimodal-interaction|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Multimodal Interaction",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7623548747208739077",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "cisco|software-engineer-1|san-jose-ca": {
+    "company": "Cisco",
+    "role": "Software Engineer 1",
+    "location": "San Jose, CA",
+    "link": "https://careers.cisco.com/global/en/job/1449197",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "neuralink|software-engineer-intern-bci-applications|fremont-ca": {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern, BCI Applications",
+    "location": "Fremont, CA",
+    "link": "https://job-boards.greenhouse.io/neuralink/jobs/6594422003",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "quora|software-engineer-machine-learning-platform|remote-us": {
+    "company": "Quora",
+    "role": "Software Engineer, Machine Learning Platform",
+    "location": "Remote (US)",
+    "link": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "five-rings|software-developer-intern|new-york-ny": {
+    "company": "Five Rings",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/imc/jobs/",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-16",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/imc/jobs/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-16",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
