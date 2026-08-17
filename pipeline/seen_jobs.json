@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "tiktok|swe-intern-agentic-creation-aigc-ai-content|san-jose-ca": {
+    "company": "TikTok",
+    "role": "SWE Intern, Agentic Creation-AIGC (AI Content)",
+    "location": "San Jose, CA",
+    "link": "https://careers.tiktok.com/position/7481666568972218650/detail",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "microsoft|software-engineering-intern|multiple-us": {
+    "company": "Microsoft",
+    "role": "Software Engineering Intern",
+    "location": "Multiple US locations",
+    "link": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern-dynamo|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern, Dynamo",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|multiple-us": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY / Chicago, IL / Miami, FL",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-internship-c-or-python|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Internship (C++ or Python)",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-17",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.wd5.myworkdayjobs.com/PositionList/job/Chicago/ML-Research-Engineer-Intern_REQ-03629",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-17",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
