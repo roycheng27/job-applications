@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern (AI/ML & LLM)",
+    "location": "Redmond, WA",
+    "link": "https://jobs.careers.microsoft.com/global/en/job/1748021",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7494722162965425426/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/73823433529041606",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/468a0c34-b78a-4d3f-bdc3-0a7b5ddb02df",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
+  },
+  "tiktok|software-engineer-intern-ai-agent-global-revenue|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Software Engineer Intern (AI Agent & Global Revenue)",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7506394069870416167",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers/roles/6174287",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://capitalonecareers.com/job/mclean/data-analyst-intern/1732/79285824",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-08-18",
+    "status": "tailored"
   }
 }
