@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern (AI/ML & LLM)",
+    "location": "Redmond, WA",
+    "link": "https://careers.microsoft.com/students/us/en/job/1843888/Software-Engineer-Intern-AI-ML-LLM",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "tiktok|software-engineer-intern-data-arch-e-commerce|seattle-wa": {
+    "company": "TikTok",
+    "role": "Software Engineer Intern, Data Architecture - E-commerce",
+    "location": "Seattle, WA",
+    "link": "https://lifeattiktok.com/search/7668582086899763461",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "notion|software-engineer-intern-mobile|san-francisco-ca": {
+    "company": "Notion",
+    "role": "Software Engineer Intern, Mobile",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-19",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/internship-swe-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-19",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
