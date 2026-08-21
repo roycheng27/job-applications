@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nuclear-company|ai-applied-research-intern|remote-us": {
+    "company": "Nuclear Company",
+    "role": "AI Applied Research Intern",
+    "location": "Remote (US)",
+    "link": "https://jobs.ashbyhq.com/nuclearcompany/ai-applied-research-intern",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple Locations",
+    "link": "https://careers.google.com/jobs/results/10170442013049542-software-engineering-intern-bs-summer-2027/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "Bellevue, WA / Mountain View, CA / San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern-winter|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern (Winter 2027)",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "location": "Foster City, CA",
+    "link": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "quora|software-engineer-new-grad|remote-us": {
+    "company": "Quora",
+    "role": "Software Engineer (New Grad)",
+    "location": "Remote (US)",
+    "link": "https://boards.greenhouse.io/quora/jobs/6264986",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "notion|software-engineer-intern-summer-2027|san-francisco-ca": {
+    "company": "Notion",
+    "role": "Software Engineer Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://app.ashbyhq.com/careers/individual/3fba1c39",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-21",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/ml-research-intern",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-21",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
