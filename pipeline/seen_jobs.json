@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "millennium|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/careers/job/755957778821",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs-summer-2027|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS (Summer 2027)",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern-winter-2027|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern (Winter 2027)",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Internship (C++ or Python)",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "akuna-capital|software-engineer-intern|chicago-il": {
+    "company": "Akuna Capital",
+    "role": "Software Engineer Intern (Summer 2027)",
+    "location": "Chicago, IL",
+    "link": "https://akunacapital.com/careers/job/8018847/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "old-mission|software-engineer-intern|chicago-il": {
+    "company": "Old Mission",
+    "role": "Software Engineer Intern (Summer 2027, June Start)",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-23",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern - Summer 2027",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-23",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
