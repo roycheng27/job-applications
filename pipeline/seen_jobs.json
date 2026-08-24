@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc|quantitative-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Quantitative Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-24",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://careers.bytedance.com/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
+  },
+  "american-express|ai-engineer-intern|new-york-ny": {
+    "company": "American Express",
+    "role": "AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.americanexpress.com/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|denver-co": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "Denver, CO",
+    "link": "https://www.palantir.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
+  },
+  "samsara|software-engineer-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-08-24",
+    "status": "tailored"
   }
 }
