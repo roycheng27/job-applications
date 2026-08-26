@@ -213,5 +213,88 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "modal|ml-research-intern|new-york-ny": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY; San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-26",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-26",
+    "status": "tailored",
+    "note": "no_sponsorship"
+  },
+  "google|software-engineer-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern (BS)",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-26",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://boards.greenhouse.io/figma/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-26",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-26",
+    "status": "tailored"
+  },
+  "shopify|software-engineering-intern|remote-us": {
+    "company": "Shopify",
+    "role": "Software Engineering Intern",
+    "location": "Remote-US",
+    "link": "https://www.shopify.com/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-26",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-26",
+    "status": "tailored"
+  },
+  "databricks|software-engineer-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/databricks/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-26",
+    "status": "skipped",
+    "reason": "graduation_mismatch",
+    "note": "requires_fall_2027_or_spring_2028_grad; Roy graduates spring_2027"
   }
 }
