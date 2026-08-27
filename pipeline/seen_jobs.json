@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|remote-us": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Remote-US",
+    "link": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|remote-us": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "Remote-US",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.figma.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|san-francisco-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://replit.com/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-27",
+    "status": "tailored"
   }
 }
