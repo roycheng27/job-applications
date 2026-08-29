@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "quora|software-engineer-machine-learning-platform|remote": {
+    "company": "Quora",
+    "role": "Software Engineer, Machine Learning Platform, New Grad",
+    "location": "Remote (US)",
+    "link": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY / Boston, MA",
+    "link": "https://careers.datadoghq.com/detail/7158137/?gh_jid=7158137",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer",
+    "location": "Chicago, IL / New York, NY",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "verition-fund-management|software-engineer-intern|remote": {
+    "company": "Verition Fund Management",
+    "role": "Software Engineer Intern",
+    "location": "Remote (US)",
+    "link": "https://www.verition.com/open-positions",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-08-29",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-08-29",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
