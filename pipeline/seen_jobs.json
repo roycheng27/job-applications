@@ -213,5 +213,152 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "american-express|ai-engineer-intern-enterprise-technology-services|new-york-ny": {
+    "company": "American Express",
+    "role": "AI Engineer Intern, Enterprise Technology Services",
+    "location": "New York, NY",
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "the-nuclear-company|ai-applied-research-intern|washington-dc": {
+    "company": "The Nuclear Company",
+    "role": "AI Applied Research Intern",
+    "location": "Washington, DC",
+    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "palantir|forward-deployed-software-engineer-intern|chicago-il": {
+    "company": "Palantir Technologies",
+    "role": "Forward Deployed Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca-new-york-ny": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://www.figma.com/careers/job/?gh_jid=5402754004",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "chicago-trading-company|new-grad-2027-associate-engineer|chicago-il-new-york-ny": {
+    "company": "Chicago Trading Company",
+    "role": "New Grad 2027 Associate Engineer",
+    "location": "Chicago, IL / New York, NY",
+    "link": "https://boards.greenhouse.io/chicagotradingco/jobs/4392649005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.ashbyhq.com/replit/9cf5febc-b9b5-4067-8818-ec46bcb58017",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "tailored"
+  },
+  "adobe|new-grad-2026-machine-learning-engineer|san-jose-ca": {
+    "company": "Adobe",
+    "role": "New Grad 2026 Machine Learning Engineer",
+    "location": "San Jose, CA",
+    "link": "https://careers.adobe.com/us/en/job/ADUBUSR156190EXTERNALENUS",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "atlassian|new-grad-2026-machine-learning-engineer|san-francisco-ca": {
+    "company": "Atlassian",
+    "role": "New Grad 2026 Machine Learning Engineer",
+    "location": "San Francisco, CA",
+    "link": "https://www.atlassian.com/company/careers/detail/5a33be54-3bb7-4ac2-bf00-9d2f8b4a0f7a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.wd5.myworkdayjobs.com/en-US/IMC_USA_Jobs",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "bytedance|new-grad-2026-machine-learning-graduate-ecommerce|seattle-wa": {
+    "company": "ByteDance",
+    "role": "New Grad 2026 Machine Learning Graduate, E-Commerce",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7491027523695869219/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "harvey|new-grad-software-engineer|san-francisco-ca": {
+    "company": "Harvey",
+    "role": "New Grad Software Engineer",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/harvey/8a7a4f7c-4317-485a-a9c7-a5f0c69da5bc",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "databricks|software-engineering-intern|bellevue-wa-mountain-view-ca-san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "Bellevue, WA / Mountain View, CA / San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-7986554002",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "tiktok|new-grad-2026-machine-learning-engineer|san-jose-ca": {
+    "company": "TikTok",
+    "role": "New Grad 2026 Machine Learning Engineer",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7499887990737849602",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-01",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
