@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS, Summer 2027",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
+  },
+  "castleton-commodities-international|data-science-machine-learning-internship|new-york-city-ny": {
+    "company": "Castleton Commodities International",
+    "role": "Data Science Machine Learning Internship — Summer 2027",
+    "location": "New York City, NY",
+    "link": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
+  },
+  "figma|software-engineer-full-stack|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer, Full Stack",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/5691911004",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
+  },
+  "chicago-trading-company|new-grad-2027-associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "New Grad 2027: Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers/roles/8082091",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-02",
+    "status": "tailored"
   }
 }
