@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|remote-us": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Remote-US / Multiple offices",
+    "link": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7670009669494704437",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|remote-us": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "Remote-US / NYC",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple US offices",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / NYC / Remote",
+    "link": "https://www.figma.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
+  },
+  "roblox|software-engineer-intern|san-mateo-ca": {
+    "company": "Roblox",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://careers.roblox.com/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA / NYC / Remote",
+    "link": "https://www.capitalonecareers.com/",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-09-03",
+    "status": "tailored"
   }
 }
