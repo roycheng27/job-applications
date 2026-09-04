@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineer-intern-bs|multiple-locations-us": {
+    "company": "Google",
+    "role": "Software Engineer Intern, BS, Summer 2027",
+    "location": "Multiple Locations (US)",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern, Summer 2027",
+    "location": "San Francisco, CA / Seattle, WA",
+    "link": "https://www.databricks.com/company/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern, Summer 2027",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://www.figma.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern, Summer 2027",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, Summer 2027",
+    "location": "Seattle, WA / Multiple US Locations",
+    "link": "https://www.amazon.jobs/en/jobs/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
+  },
+  "palantir-technologies|forward-deployed-software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Forward Deployed Software Engineer Intern, Summer 2027",
+    "location": "New York, NY / Washington DC",
+    "link": "https://www.palantir.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
+  },
+  "the-nuclear-company|ai-applied-research-intern|remote-us": {
+    "company": "The Nuclear Company",
+    "role": "AI Applied Research Intern, Summer 2027",
+    "location": "Remote (US) / Washington DC",
+    "link": "https://thenuclearcompany.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-04",
+    "status": "tailored"
   }
 }
