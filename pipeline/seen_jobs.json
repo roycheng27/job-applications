@@ -213,5 +213,76 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "campbells|agentic-ai-engineer-co-op|remote": {
+    "company": "Campbell Soup Company",
+    "role": "Agentic AI Engineer Co-Op",
+    "location": "Remote",
+    "link": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-05",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US Locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-05",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-05",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "Bellevue, WA / Mountain View, CA / San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-05",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY / Boston, MA",
+    "link": "https://careers.datadoghq.com/detail/8052095/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-05",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern-backend-focused|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern - Backend Focused",
+    "location": "San Francisco, CA / New York, NY / Seattle, WA",
+    "link": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-05",
+    "status": "tailored"
+  },
+  "crowe|data-analytics-developer-intern|chicago-il": {
+    "company": "Crowe",
+    "role": "Data Analytics Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-09-05",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
