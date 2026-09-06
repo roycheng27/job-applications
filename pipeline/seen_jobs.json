@@ -213,5 +213,152 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "millennium|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/careers/job/755957778821",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "transmarket-group|software-engineer-intern|chicago-il": {
+    "company": "TransMarket Group",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern-backend|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern, Backend",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "spreeai|software-engineer-intern-ai-infrastructure|san-francisco-ca": {
+    "company": "SpreeAI",
+    "role": "Software Engineer Intern, AI Infrastructure",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/4408189005",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "return_to_school_required"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7882649002/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "databricks|software-engineering-intern|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "Bellevue, WA",
+    "link": "https://www.databricks.com/company/careers/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "palantir-technologies|forward-deployed-software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Forward Deployed Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "campbell-soup-company|agentic-ai-engineer-co-op|remote": {
+    "company": "Campbell Soup Company",
+    "role": "Agentic AI Engineer Co-Op",
+    "location": "Remote",
+    "link": "https://campbellsoupcompany.wd1.myworkdayjobs.com/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "experience_required"
+  },
+  "quora|software-engineer|remote": {
+    "company": "Quora",
+    "role": "Software Engineer",
+    "location": "Remote",
+    "link": "https://jobs.lever.co/quora/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-06",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
