@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-10",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "millennium|applied-ai-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Intern",
+    "location": "New York, NY",
+    "link": "https://www.mlp.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-10",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "bytedance|student-researcher-multimodal|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Multimodal",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
+  },
+  "campbell-soup|agentic-ai-engineer-co-op|remote": {
+    "company": "Campbell Soup Company",
+    "role": "Agentic AI Engineer Co-Op",
+    "location": "Remote",
+    "link": "https://www.campbellsoupcompany.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/jobs/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.figma.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.palantir.com/careers/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern",
+    "location": "Foster City, CA",
+    "link": "https://replit.com/site/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-10",
+    "status": "tailored"
   }
 }
