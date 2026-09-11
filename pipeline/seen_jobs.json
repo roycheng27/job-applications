@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|student-researcher-multimodal-interaction-world-model|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Multimodal Interaction & World Model (Seed)",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7623548747208739077",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|united-states": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "United States",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern-c-or-python|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern (C++ or Python)",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "akuna-capital|software-engineer-intern-c-python|chicago-il": {
+    "company": "Akuna Capital",
+    "role": "Software Engineer Intern (C++/Python)",
+    "location": "Chicago, IL",
+    "link": "https://akunacapital.com/careers/job/8018847/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "old-mission-capital|software-engineer-intern|chicago-il": {
+    "company": "Old Mission Capital",
+    "role": "Software Engineer — 2027 Internship Program",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "five-rings|software-developer-intern|new-york-ny": {
+    "company": "Five Rings",
+    "role": "Software Developer Intern (Summer 2027)",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "western-digital|software-engineering-intern|san-jose-ca": {
+    "company": "Western Digital",
+    "role": "Summer 2027 Intern — Software Engineering",
+    "location": "San Jose, CA",
+    "link": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-11",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-11",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
