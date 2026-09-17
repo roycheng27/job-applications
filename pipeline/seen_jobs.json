@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|ml-researcher-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "ML Researcher Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7822042002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7511898672213321015/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "american-express|ai-engineer-intern|new-york-ny": {
+    "company": "American Express",
+    "role": "AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://careers-americas.icims.com/jobs/81524/job",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "microsoft|software-engineering-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineering Intern (AI/ML & LLM)",
+    "location": "Redmond, WA",
+    "link": "https://jobs.careers.microsoft.com/global/en/job/1849344/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/82469183736955590/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern-production-infrastructure|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern (Production Infrastructure)",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/f17e98d4-6b2a-4e19-b196-df7ef4e1c0a0",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern/31238/78699419376",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-09-17",
+    "status": "tailored"
+  },
+  "adobe|research-scientist-engineer-intern|san-jose-ca": {
+    "company": "Adobe",
+    "role": "Research Scientist/Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://careers.adobe.com/us/en/job/R155093/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-17",
+    "status": "skipped",
+    "reason": "masters_required_graduation_mismatch"
+  },
+  "atlassian|software-engineer-intern|new-york-ny": {
+    "company": "Atlassian",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.atlassian.com/company/careers/details/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-17",
+    "status": "skipped",
+    "reason": "masters_required_graduation_mismatch"
+  },
+  "drw|software-developer-intern|chicago-il": {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://drw.com/work-at-drw/listings/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-17",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
