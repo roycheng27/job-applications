@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "replit|software-engineering-intern|san-francisco-ca": {
+    "company": "Replit",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://www.chicagotrading.com/careers",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "five-rings|software-developer-intern|new-york-ny": {
+    "company": "Five Rings",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://fiverings.com/apply/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "old-mission-capital|software-engineer-intern|chicago-il": {
+    "company": "Old Mission Capital",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.oldmissioncapital.com/careers/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "akuna-capital|software-engineer-intern|chicago-il": {
+    "company": "Akuna Capital",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://akunacapital.com/careers",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.imc.com/us/careers",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-18",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "palantir|software-engineer-intern|remote-us": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "Remote (US)",
+    "link": "https://jobs.lever.co/palantir",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "quora|software-engineer|remote-us": {
+    "company": "Quora",
+    "role": "Software Engineer (New Grad)",
+    "location": "Remote (US)",
+    "link": "https://jobs.lever.co/quora",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-18",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
