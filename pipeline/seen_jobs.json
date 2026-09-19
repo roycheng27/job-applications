@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern — AI/ML/LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/us/en/job/1793830",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7635103002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7426623956712354088/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern (BS)",
+    "location": "Multiple US",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/95336625560552134",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/5253886004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers/roles/5717626",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern/1732/73543718112",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-09-19",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|remote-us": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "Remote, US",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-19",
+    "status": "skipped",
+    "reason": "phd_preferred"
+  },
+  "databricks|software-engineering-intern-winter-2027|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "link": "https://databricks.com/careers",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-19",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "palantir|software-engineer-intern-summer-2027|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern, Summer 2027",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-19",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
