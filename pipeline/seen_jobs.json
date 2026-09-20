@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-ml-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position (JD inferred — JS-gated)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
+  },
+  "tiktok|software-engineer-intern-aigc|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Software Engineer Intern — AIGC",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/ (JD inferred — JS-gated)",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern-winter-2027|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern — Winter 2027",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/figma (JD inferred — JS-gated)",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineer-intern-summer-2027|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineer Intern — Summer 2027",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/ (JD inferred — JS-gated)",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer-new-grad-2027|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer — New Grad 2027",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/chicagotrading (JD inferred — JS-gated)",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
+  },
+  "neuralink|software-engineer-intern-bci-applications|fremont-ca": {
+    "company": "Neuralink",
+    "role": "Software Engineer Intern — BCI Applications",
+    "location": "Fremont, CA",
+    "link": "https://boards.greenhouse.io/neuralink (JD inferred — JS-gated)",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
+  },
+  "replit|software-engineer-intern-summer-2027|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineer Intern — Summer 2027",
+    "location": "Foster City, CA",
+    "link": "https://replit.com/site/careers (JD inferred — JS-gated)",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-20",
+    "status": "tailored"
   }
 }
