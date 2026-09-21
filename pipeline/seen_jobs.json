@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "millennium-management|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/careers/job/755957778821",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
+  },
+  "tesla|software-machine-learning-engineer-intern|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software & Machine Learning Engineer Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/248920",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
+  },
+  "american-express|ai-engineer-intern|new-york-ny": {
+    "company": "American Express",
+    "role": "AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-aiml|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://careers.microsoft.com/students/us/en/job/intern",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027 Start)",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern-winter-2027|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern (Winter 2027 Start)",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern-winter-2027|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern (Winter 2027 Start)",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/8052095/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-21",
+    "status": "tailored"
   }
 }
