@@ -213,5 +213,163 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "uber|software-engineer-i|san-francisco-ca": {
+    "company": "Uber Technologies",
+    "role": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.uber.com/en/jobs/160017/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "chicago-trading-company|associate-engineer|chicago-il": {
+    "company": "Chicago Trading Company",
+    "role": "Associate Engineer",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/5260483004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/6756748/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "paypal|software-engineer|san-jose-ca": {
+    "company": "PayPal",
+    "role": "Software Engineer",
+    "location": "San Jose, CA",
+    "link": "https://job-boards.greenhouse.io/paypal/jobs/6757063",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "crowe|data-analytics-developer-intern|chicago-il": {
+    "company": "Crowe LLP",
+    "role": "Data Analytics Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://crowe.wd1.myworkdayjobs.com/CroweCareerSite/job/Chicago-Illinois-US/Data-Analytics-Developer-Intern_R-7581",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-09-23",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03535",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "google|software-engineer-intern-bs|various": {
+    "company": "Google",
+    "role": "Software Engineer Intern (BS, Summer 2027)",
+    "location": "Various (US)",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "vanshb03-main",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "google|software-engineer-ii-early-career|various": {
+    "company": "Google",
+    "role": "Software Engineer II, Early Career",
+    "location": "Various (US)",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "posting_closed"
+  },
+  "palantir|fdse-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Forward Deployed Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/",
+    "source": "vanshb03-main",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "databricks|software-engineering-intern-winter|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "campbell-soup|agentic-ai-co-op|camden-nj": {
+    "company": "Campbell Soup",
+    "role": "Agentic AI Co-Op",
+    "location": "Camden, NJ",
+    "link": "https://www.campbellsoupcompany.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "experience_mismatch"
+  },
+  "scale-ai|technical-advisor-genai|remote": {
+    "company": "Scale AI",
+    "role": "Technical Advisor, GenAI",
+    "location": "Remote (US)",
+    "link": "https://scale.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "posting_stale"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|various": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services (Fall 2026)",
+    "location": "Various (US)",
+    "link": "https://www.amazon.jobs/en/jobs/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-23",
+    "status": "skipped",
+    "reason": "posting_stale"
   }
 }
