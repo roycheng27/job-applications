@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "millennium-management|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/jobs/applied-ai-engineer-intern",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
+  },
+  "campbell-soup-company|agentic-ai-engineer-co-op|remote": {
+    "company": "Campbell Soup Company",
+    "role": "Agentic AI Engineer Co-Op",
+    "location": "Remote",
+    "link": "https://campbellsoupcompany.wd1.myworkdayjobs.com",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple US Locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "Bellevue, WA / Mountain View, CA / San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/8052095/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
+  },
+  "crowe|data-analytics-developer-intern|chicago-il": {
+    "company": "Crowe LLP",
+    "role": "Data Analytics Developer Intern",
+    "location": "Chicago, IL",
+    "link": "https://crowe.wd1.myworkdayjobs.com/CroweCareer",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-09-24",
+    "status": "tailored"
   }
 }
