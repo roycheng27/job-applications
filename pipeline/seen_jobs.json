@@ -213,5 +213,119 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "figma|software-engineering-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://boards.greenhouse.io/figma/jobs/5275684004",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "palantir|software-engineering-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/d1a7e0d8-37e3-4b9e-bf24-6e3e5df38b7c",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "shopify|software-engineer-intern-winter-2027|remote-us": {
+    "company": "Shopify",
+    "role": "Software Engineer Intern (Winter 2027)",
+    "location": "Remote-US",
+    "link": "https://www.shopify.com/careers/software-engineer-intern-winter-2027",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "quora|software-engineer-ml-platform|remote-us": {
+    "company": "Quora",
+    "role": "Software Engineer, ML Platform",
+    "location": "Remote-US",
+    "link": "https://jobs.lever.co/quora/b4c8e1f2-9a3d-4b7e-8c1a-2d5f6e7b8c9d",
+    "source": "cvrve-new-grad",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "neuralink|software-engineering-intern|fremont-ca": {
+    "company": "Neuralink",
+    "role": "Software Engineering Intern",
+    "location": "Fremont, CA",
+    "link": "https://boards.greenhouse.io/neuralink/jobs/5469298003",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-28",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/4393262101",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-28",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "bytedance|student-researcher-ml|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher (ML)",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7272993548783198520/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-28",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "millennium|quantitative-research-intern|new-york-ny": {
+    "company": "Millennium",
+    "role": "Quantitative Research Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/job/quantitative-research-internship",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-28",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "jpmorgan|quantitative-research-associate-program|new-york-ny": {
+    "company": "JPMorgan Chase",
+    "role": "Quantitative Research Associate Program",
+    "location": "New York, NY",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527033",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-28",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
