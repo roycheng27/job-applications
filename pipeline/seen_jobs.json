@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8599644002/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "Bellevue, WA / Mountain View, CA / San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "roblox|software-engineer-intern|san-mateo-ca": {
+    "company": "Roblox",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://careers.roblox.com/jobs/8072713",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-09-30",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|new-york-ny": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-09-30",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
