@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineer-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+    "source": "sndsh404-summer2027",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer, Internship",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404-summer2027",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "uber|software-engineer-i|seattle-wa": {
+    "company": "Uber",
+    "role": "Software Engineer I",
+    "location": "Seattle, WA",
+    "link": "https://www.uber.com/us/en/careers/list/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/8114161/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "sndsh404-summer2027",
+    "field": "SWE",
+    "first_seen": "2026-10-02",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc",
+    "source": "sndsh404-summer2027",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-02",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
