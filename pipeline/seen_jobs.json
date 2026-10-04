@@ -213,5 +213,119 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "tesla|software-compiler-engineer-intern-ai-inference|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Compiler Engineer Intern, AI Inference",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/278847",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-winter|multiple-us-locations": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern (Winter)",
+    "location": "Multiple US locations",
+    "link": "https://www.amazon.jobs/en/jobs/2846348/software-development-engineer-intern-2027-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern-winter-2027|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern (Winter 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/5342489004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/6205074/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "shopify|software-engineering-intern-winter-2027|remote-us": {
+    "company": "Shopify",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "Remote (US/Canada)",
+    "link": "https://www.shopify.com/careers/software-engineering-intern-winter-2027_8b5e2c3a",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7494347002/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.imc.com/us/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-04",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/open-positions",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "replit|software-engineer-intern|foster-city-ca": {
+    "company": "Replit",
+    "role": "Software Engineer Intern",
+    "location": "Foster City, CA",
+    "link": "https://replit.com/site/careers",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-04",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
