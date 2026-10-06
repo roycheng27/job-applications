@@ -209,9 +209,112 @@
     "location": "Chicago, IL",
     "link": "https://boards.greenhouse.io/aquaticcapitalmanagement",
     "source": "vanshb03",
-    "field": "SWE",
+    "field": "AI-MLE",
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "scale-ai|technical-advisor-intern-genai|san-francisco-ca": {
+    "company": "Scale AI",
+    "role": "Technical Advisor Intern, GenAI",
+    "location": "San Francisco, CA",
+    "link": "https://scale.com/careers/4611533005",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern-winter-2027|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern (Winter 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "palantir|forward-deployed-software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Forward Deployed Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03620",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-06",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "bank-of-america|business-analyst-summer-analyst-2027|multiple": {
+    "company": "Bank of America",
+    "role": "Business Analyst Summer Analyst 2027",
+    "location": "Multiple",
+    "link": "https://careers.bankofamerica.com/en-us/students/programs",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-10-06",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "amazon|software-development-engineer-intern|multiple": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern (Winter 2026)",
+    "location": "Multiple",
+    "link": "https://www.amazon.jobs/en/jobs/winter-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-06",
+    "status": "skipped",
+    "reason": "posting_expired"
   }
 }
