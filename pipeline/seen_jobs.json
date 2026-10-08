@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|new-york-ny": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "New York, NY / San Francisco, CA",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://jobs.careers.microsoft.com/global/en/job/1748949",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
+  },
+  "american-express|ai-engineer-intern-enterprise-technology-services|new-york-ny": {
+    "company": "American Express",
+    "role": "AI Engineer Intern, Enterprise Technology Services",
+    "location": "New York, NY",
+    "link": "https://aexp.eightfold.ai/careers/job/24791922",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "Bellevue, WA / Mountain View, CA / San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start-dates-6866529002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA / New York, NY",
+    "link": "https://www.figma.com/careers/job/6300914003",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.samsara.com/company/careers/roles/5836798003",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-08",
+    "status": "tailored"
   }
 }
