@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7524507716369870134/detail",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
+  },
+  "american-express|ai-engineer-intern-enterprise-technology-services|new-york-ny": {
+    "company": "American Express",
+    "role": "AI Engineer Intern, Enterprise Technology Services",
+    "location": "New York, NY",
+    "link": "https://aexp.eightfold.ai/careers/job/24829613",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/132833955722732230",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start-6866529002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern-production-infrastructure|seattle-wa": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern, Production Infrastructure",
+    "location": "Seattle, WA",
+    "link": "https://jobs.lever.co/palantir/f17e98d0-89b4-4a85-8a5c-4f27c96d3ced",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://capitalonecareers.com/job/mclean/data-analyst-intern/1732/73527462160",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
+  },
+  "qualtrics|machine-learning-engineer|seattle-wa": {
+    "company": "Qualtrics",
+    "role": "Machine Learning Engineer",
+    "location": "Seattle, WA",
+    "link": "https://www.qualtrics.com/careers/us/en/job/6768478/Machine-Learning-Engineer",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-10",
+    "status": "tailored"
   }
 }
