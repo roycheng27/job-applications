@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "millennium|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/careers/job/755957778821?utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
+  },
+  "tesla|software-compiler-engineer-intern-ai-inference|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Compiler Engineer Intern, AI Inference",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/278847?utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers?pid=1970393556922929",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
+  },
+  "jane-street|software-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8599644002/?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern, Winter 2027",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-11",
+    "status": "tailored"
   }
 }
