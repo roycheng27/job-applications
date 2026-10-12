@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "modal|machine-learning-research-intern|new-york-ny": {
+    "company": "Modal",
+    "role": "Machine Learning Research Intern",
+    "location": "New York, NY",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-12",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7942897002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://jobs.careers.microsoft.com/global/en/job/intern-software-engineer-aiml",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
+  },
+  "bytedance|applied-machine-learning-production-engineer-intern|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/applied-ml-production-engineer-intern",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://careers.google.com/jobs/results/software-engineering-intern-bs-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/software-engineer-intern",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://capitalonecareers.com/job/mclean/data-analyst-intern/1732/78765432",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
+  },
+  "boeing|data-analytics-intern|seattle-wa": {
+    "company": "Boeing",
+    "role": "Data Analytics Intern",
+    "location": "Seattle, WA",
+    "link": "https://jobs.boeing.com/job/data-analytics-intern-2027",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-10-12",
+    "status": "tailored"
   }
 }
