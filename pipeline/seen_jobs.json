@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-ai-ml-and-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
+  },
+  "bytedance|software-engineer-intern-ai-platform|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Software Engineer Intern, AI Platform",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7668212952030841093",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|new-york-ny": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern-production-infrastructure|seattle-wa": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern, Production Infrastructure",
+    "location": "Seattle, WA",
+    "link": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "DE Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-13",
+    "status": "tailored"
   }
 }
