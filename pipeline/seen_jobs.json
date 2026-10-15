@@ -213,5 +213,119 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|multiple-us": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "Multiple US locations",
+    "link": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.imc.com/us/careers/jobs/4823924101",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "anduril-industries|software-engineer-intern|multiple-us": {
+    "company": "Anduril Industries",
+    "role": "Software Engineer Intern",
+    "location": "Multiple US locations",
+    "link": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-07",
+    "status": "tailored"
+  },
+  "aquatic|software-engineer-intern|chicago-il": {
+    "company": "Aquatic",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/aquaticcapitalmanagement",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "tower-research-capital|software-engineer-intern|new-york-ny": {
+    "company": "Tower Research Capital",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.tower-research.com/open-positions",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "skipped",
+    "reason": "cap_reached"
+  },
+  "susquehanna-international-group|software-engineering-intern|bala-cynwyd-pa": {
+    "company": "Susquehanna International Group",
+    "role": "Software Engineering Intern",
+    "location": "Bala Cynwyd, PA",
+    "link": "https://careers.sig.com",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "skipped",
+    "reason": "cap_reached"
+  },
+  "capital-one|product-development-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Product Development Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-07",
+    "status": "skipped",
+    "reason": "cap_reached"
   }
 }
