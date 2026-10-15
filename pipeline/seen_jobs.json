@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|software-engineer-intern-ai-ml--llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers?pid=1970393556922929",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "tiktok|machine-learning-engineer|san-jose-ca": {
+    "company": "TikTok",
+    "role": "New Grad 2026: Machine Learning Engineer",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7559731427425257746",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "tesla|software-machine-learning-engineer-intern-reliability-energy-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/248920",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS, Summer 2027",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "roblox|software-engineer-intern|san-mateo-ca": {
+    "company": "Roblox",
+    "role": "Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-15",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "modal|machine-learning-research-intern|remote": {
+    "company": "Modal",
+    "role": "Machine Learning Research Intern",
+    "location": "Remote",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "millennium-management|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.mlp.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-15",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
