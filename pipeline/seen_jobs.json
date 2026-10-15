@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
+  },
+  "zoox|platform-intelligence-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Platform Intelligence Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
+  },
+  "amazon|software-dev-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Dev Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/2994311/software-dev-engineer-intern-2025-aws-data-services",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
+  },
+  "tesla|swe-intern-service-engineering|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "SWE Intern, Service Engineering",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/software-engineering-internship-service-engineering-summer-2026-226651",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
+  },
+  "snowflake|software-engineer-intern-infrastructure-automation|san-mateo-ca": {
+    "company": "Snowflake",
+    "role": "Software Engineer Intern, Infrastructure Automation",
+    "location": "San Mateo, CA",
+    "link": "https://careers.snowflake.com/us/en/job/SNCOUS7437954FEXTERNALENUSR/Software-Engineer-Intern-Infrastructure-Automation-Summer-2026",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
+  },
+  "rippling|swe-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "SWE Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.rippling.com/careers/openings/5509001004",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
+  },
+  "skydio|swe-intern|san-mateo-ca": {
+    "company": "Skydio",
+    "role": "SWE Intern",
+    "location": "San Mateo, CA",
+    "link": "https://www.skydio.com/jobs/5016246004",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-05",
+    "status": "tailored"
   }
 }
