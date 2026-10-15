@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.wd5.myworkdayjobs.com/campus",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-08",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "verkada|ai-software-engineer-intern|san-mateo-ca": {
+    "company": "Verkada",
+    "role": "AI Software Engineer Intern",
+    "location": "San Mateo, CA",
+    "link": "https://jobs.lever.co/verkada",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
+  },
+  "citadel|software-engineer-intern|chicago-il": {
+    "company": "Citadel",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.citadel.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
+  },
+  "google|software-engineer-ii-early-career|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineer II, Early Career",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/143333237156913862-software-engineer-ii/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://amazon.jobs/en/jobs/10412530",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
+  },
+  "optiver|software-engineer-intern|chicago-il": {
+    "company": "Optiver",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://optiver.com/join-us/jobs/technology",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-07-08",
+    "status": "tailored"
   }
 }
