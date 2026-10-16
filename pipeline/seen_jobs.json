@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.janestreet.com/join-jane-street/position/7948563002/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-ai-ml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern - AI/ML/LLM",
+    "location": "Redmond, WA",
+    "link": "https://careers.microsoft.com/students/us/en/job/1805175",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "bytedance|applied-ml-production-engineer-intern|seattle-wa": {
+    "company": "ByteDance",
+    "role": "Applied ML Production Engineer Intern",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7493338697748773643/detail",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/110249535262360262",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "figma|software-engineer-intern|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/figma/jobs/5493574004",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern - Winter",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern---winter-2027-7979929002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "capital-one|data-analyst-intern|mclean-va": {
+    "company": "Capital One",
+    "role": "Data Analyst Intern",
+    "location": "McLean, VA",
+    "link": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern/31238/80437684752",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-10-16",
+    "status": "tailored"
+  },
+  "modal|ml-research-intern|remote-us": {
+    "company": "Modal",
+    "role": "ML Research Intern",
+    "location": "Remote",
+    "link": "https://modal.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-16",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
