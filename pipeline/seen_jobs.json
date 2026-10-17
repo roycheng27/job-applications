@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "together-ai|research-intern-frontier-speculative-decoding|san-francisco-ca": {
+    "company": "Together AI",
+    "role": "Research Intern, Frontier Speculative Decoding",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007?utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
+  },
+  "zoox|ai-validation-and-benchmarking-engineer-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "AI Validation and Benchmarking Engineer Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff?utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
+  },
+  "anduril|research-engineer-co-op|santa-ana-ca": {
+    "company": "Anduril Industries",
+    "role": "Research Engineer Co-op",
+    "location": "Santa Ana, CA",
+    "link": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007&utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002&utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095&utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
+  },
+  "point72|data-research-fellowship|new-york-ny": {
+    "company": "Point72",
+    "role": "Data Research Fellowship",
+    "location": "New York, NY",
+    "link": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002&utm_source=github-vansh-ouckah",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-10-17",
+    "status": "tailored"
   }
 }
