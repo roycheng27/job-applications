@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "together-ai|research-intern-frontier-speculative-decoding|san-francisco-ca": {
+    "company": "Together AI",
+    "role": "Research Intern, Frontier Speculative Decoding",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "zoox|ai-validation-and-benchmarking-engineer-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "AI Validation and Benchmarking Engineer Intern",
+    "location": "Foster City, CA",
+    "link": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "brain-co|machine-learning-engineer-applied-ai-co-op|san-francisco-ca": {
+    "company": "Brain Co.",
+    "role": "Machine Learning Engineer, Applied AI Co-op",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern|multiple-us": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern (Winter)",
+    "location": "Multiple US",
+    "link": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern Winter 2027",
+    "location": "Bellevue, WA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "1password|data-intern-product-analytics|remote-us": {
+    "company": "1Password",
+    "role": "Data Intern, Product Analytics",
+    "location": "Remote (US)",
+    "link": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-10-19",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://boards.greenhouse.io/imc/jobs/4477877101",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-19",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
