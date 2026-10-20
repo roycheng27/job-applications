@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "scale-ai|machine-learning-research-intern|new-york-ny-san-francisco-ca": {
+    "company": "Scale AI",
+    "role": "Machine Learning Research Intern",
+    "location": "New York, NY; San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "millennium-management|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://career.mlp.com/careers/job/755957778821",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "brain-co|machine-learning-engineer-applied-ai-co-op|los-angeles-ca": {
+    "company": "Brain Co.",
+    "role": "Machine Learning Engineer, Applied AI Co-op",
+    "location": "Los Angeles, CA",
+    "link": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "together-ai|research-intern-frontier-speculative-decoding|san-francisco-ca": {
+    "company": "Together AI",
+    "role": "Research Intern, Frontier Speculative Decoding",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern-winter-2027|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (Winter 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "bank-of-america|quantitative-data-analyst-summer-analyst|multiple-us-locations": {
+    "company": "Bank of America",
+    "role": "Quantitative Data Analyst Summer Analyst",
+    "location": "Multiple US locations (NYC, Charlotte, Chicago)",
+    "link": "https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations",
+    "source": "sndsh404",
+    "field": "DA-DS",
+    "first_seen": "2026-10-20",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03521/Quantitative-Research-Internship-Summer-2027",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-20",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
