@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "salesforce|ai-research-intern|palo-alto-ca": {
+    "company": "Salesforce",
+    "role": "AI Research Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
+  },
+  "jpmorgan-chase|machine-learning-intern-nlp|new-york-ny": {
+    "company": "JPMorganChase",
+    "role": "Machine Learning Intern — NLP",
+    "location": "New York, NY",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
+  },
+  "sony|engineering-intern-ai-ethics|remote-new-york": {
+    "company": "Sony",
+    "role": "Engineering Intern — AI Ethics",
+    "location": "Remote (New York)",
+    "link": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern (BS)",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
+  },
+  "linkedin|software-engineer-intern|mountain-view-ca": {
+    "company": "LinkedIn",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern-query-engines|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern — Query Engines",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13?utm_source=github-vansh-ouckah",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
+  },
+  "bank-of-america|quantitative-data-analyst-summer-analyst|new-york-ny": {
+    "company": "Bank of America",
+    "role": "Quantitative Data Analyst — Summer Analyst",
+    "location": "New York, NY",
+    "link": "https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations",
+    "source": "sndsh404",
+    "field": "DA-DS",
+    "first_seen": "2026-10-21",
+    "status": "tailored"
   }
 }
