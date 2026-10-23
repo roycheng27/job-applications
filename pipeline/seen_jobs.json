@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "apple|soc-machine-learning-software-engineer-intern|sunnyvale-ca": {
+    "company": "Apple",
+    "role": "SoC Machine Learning Software Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "link": "https://jobs.apple.com/en-us/details/200689488",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "amazon|frontier-ai-robotics-intern|united-states": {
+    "company": "Amazon",
+    "role": "2027 Frontier AI & Robotics Internship (Undergraduate)",
+    "location": "United States",
+    "link": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "cisco|machine-learning-engineer-intern|san-jose-ca": {
+    "company": "Cisco",
+    "role": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://jobs.cisco.com/jobs/ProjectDetail/Machine-Learning-and-Software-Engineer-Internship/1440936",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "tencent|data-science-intern|palo-alto-ca": {
+    "company": "Tencent",
+    "role": "Data Science Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://builtin.com/job/data-science-intern/4282230",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "cvs-health|data-science-intern|remote-us": {
+    "company": "CVS Health",
+    "role": "Data Science Intern",
+    "location": "Remote-US / Woonsocket, RI",
+    "link": "https://simplify.jobs/p/ab43b6ac-bc9f-4569-8b68-ead804a63a53",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/106891951872549574",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern (2027)",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.thrivecap.com/companies/databricks/jobs/39286073-software-engineering-intern-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-23",
+    "status": "tailored"
+  },
+  "bytedance|student-researcher|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher (PhD)",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7469727555773680935",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "skipped",
+    "reason": "phd_only"
+  },
+  "two-sigma|ai-research-scientist-intern|new-york-ny": {
+    "company": "Two Sigma",
+    "role": "AI Research Scientist Intern",
+    "location": "New York, NY",
+    "link": "https://careers.twosigma.com/careers/Internship",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-23",
+    "status": "skipped",
+    "reason": "ms_phd_required"
   }
 }
