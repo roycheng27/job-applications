@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "millennium-management|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.mlp.com/careers/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
+  },
+  "together-ai|research-intern-speculative-decoding|san-francisco-ca": {
+    "company": "Together AI",
+    "role": "Research Intern, Speculative Decoding",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/together-ai",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://careers.google.com/jobs/results/?category=SOFTWARE_ENGINEERING&employment_type=INTERN",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
+  },
+  "databricks|software-engineering-intern|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.databricks.com/company/careers/university-recruiting",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
+  },
+  "openai|backend-software-engineer-intern-evals|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "Backend Software Engineer Intern, Evals",
+    "location": "San Francisco, CA",
+    "link": "https://openai.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
+  },
+  "datadog|software-engineering-intern|new-york-ny": {
+    "company": "Datadog",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://careers.datadoghq.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-24",
+    "status": "tailored"
   }
 }
