@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "openai|backend-software-engineer-intern-cooperative-ai-evals|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/bO?s=z",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
+  },
+  "jane-street|machine-learning-engineer-intern|new-york-ny": {
+    "company": "Jane Street",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/3Z?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-aiml-llm|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, AI/ML & LLM",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/5K?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
+  },
+  "millennium|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/7h?s=z",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
+  },
+  "servicenow|associate-software-engineer|santa-clara-ca": {
+    "company": "ServiceNow",
+    "role": "Associate Software Engineer",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/Bn?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
+  },
+  "twitch|undergrad-software-engineering-intern|san-francisco-ca": {
+    "company": "Twitch",
+    "role": "Undergrad Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/f5?s=z",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-10-25",
+    "status": "tailored"
   }
 }
