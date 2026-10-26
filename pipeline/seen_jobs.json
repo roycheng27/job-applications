@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "openai|backend-software-engineer-intern-cooperative-ai-evals|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+    "location": "San Francisco, CA",
+    "link": "https://openai.com/careers/",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "adobe|machine-learning-engineer-intern|san-jose-ca": {
+    "company": "Adobe",
+    "role": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-Intern_R153836",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "scale-ai|machine-learning-research-intern|new-york-ny": {
+    "company": "Scale AI",
+    "role": "Machine Learning Research Intern",
+    "location": "New York, NY",
+    "link": "https://scale.com/careers/4605596005",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "tiktok|machine-learning-engineer-intern-e-commerce-supply-chain-logistics-llm-agent|seattle-wa": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/Cu?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS (Summer 2027)",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "linkedin|software-engineer-intern|mountain-view-ca": {
+    "company": "LinkedIn",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://go.vansh.nyc/dh?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "netflix|software-engineer-intern|los-gatos-ca": {
+    "company": "Netflix",
+    "role": "Software Engineer Intern",
+    "location": "Los Gatos, CA",
+    "link": "https://go.vansh.nyc/BN?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-26",
+    "status": "tailored"
+  },
+  "salesforce|ai-research-intern|palo-alto-ca": {
+    "company": "Salesforce",
+    "role": "AI Research Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-26",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "jpmorganchase|machine-learning-intern-nlp|new-york-ny": {
+    "company": "JPMorgan Chase",
+    "role": "Machine Learning Intern, NLP",
+    "location": "New York, NY",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210607482",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-26",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
