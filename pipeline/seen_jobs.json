@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|deep-learning-performance-architect|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Deep Learning Performance Architect",
+    "location": "Santa Clara, CA",
+    "link": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
+  },
+  "tiktok|machine-learning-engineer-conversational-ai|seattle-wa": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer, Conversational AI",
+    "location": "Seattle, WA",
+    "link": "https://careers.tiktok.com/",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
+  },
+  "cisco|data-science-analyst-i|san-jose-ca": {
+    "company": "Cisco",
+    "role": "Data Science Analyst I",
+    "location": "San Jose, CA",
+    "link": "https://jobs.cisco.com/",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
+  },
+  "schonfeld|enterprise-ai-intern|new-york-ny": {
+    "company": "Schonfeld",
+    "role": "Enterprise AI Intern",
+    "location": "New York, NY",
+    "link": "https://www.schonfeld.com/careers/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
+  },
+  "micron-technology|data-science-intern|san-jose-ca": {
+    "company": "Micron Technology",
+    "role": "Data Science Intern",
+    "location": "San Jose, CA",
+    "link": "https://www.micron.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
+  },
+  "databricks|software-engineer-distributed-data-systems|bellevue-wa": {
+    "company": "Databricks",
+    "role": "New Grad: Software Engineer, Distributed Data Systems",
+    "location": "Bellevue, WA / Mountain View, CA",
+    "link": "https://databricks.com/company/careers",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-28",
+    "status": "tailored"
   }
 }
