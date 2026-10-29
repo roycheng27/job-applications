@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|applied-scientist-intern-turing|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Applied Scientist Intern, Turing",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/Z4?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
+  },
+  "openai|backend-software-engineer-intern-cooperative-ai-evals|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "Backend Software Engineer Intern, Cooperative AI & Evals",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/bO?s=z",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
+  },
+  "spacex|ai-software-engineer-vehicle-engineering|hawthorne-ca": {
+    "company": "SpaceX",
+    "role": "AI Software Engineer, Vehicle Engineering",
+    "location": "Hawthorne, CA",
+    "link": "https://go.vansh.nyc/BJ?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
+  },
+  "databricks|software-engineer-distributed-data-systems|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineer, Distributed Data Systems (New Grad 2027)",
+    "location": "Bellevue, WA",
+    "link": "https://go.vansh.nyc/WB?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
+  },
+  "glean|software-engineer|mountain-view-ca": {
+    "company": "Glean",
+    "role": "Software Engineer (New Grad)",
+    "location": "Mountain View, CA",
+    "link": "https://go.vansh.nyc/XJ?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
+  },
+  "cisco|data-science-analyst-i|san-jose-ca": {
+    "company": "Cisco",
+    "role": "Data Science Analyst I",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/XC?s=A",
+    "source": "cvrve",
+    "field": "DA-DS",
+    "first_seen": "2026-10-29",
+    "status": "tailored"
   }
 }
