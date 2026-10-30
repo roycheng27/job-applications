@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "openai|backend-software-engineer-intern|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "Backend Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://openai.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Multiple US locations",
+    "link": "https://careers.google.com/jobs/results/?employment_type=INTERN",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineer-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
+  },
+  "new-york-times|backend-engineering-intern|new-york-ny": {
+    "company": "The New York Times",
+    "role": "Backend Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://nytimes.wd5.myworkdayjobs.com/Intern",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
+  },
+  "salesforce|ai-labs-intern|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "AI Labs Intern",
+    "location": "San Francisco, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
+  },
+  "together-ai|research-intern-inference|san-francisco-ca": {
+    "company": "Together AI",
+    "role": "Research Intern, Inference",
+    "location": "San Francisco, CA",
+    "link": "https://www.together.ai/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
+  },
+  "millennium-management|applied-ai-engineer-intern|new-york-ny": {
+    "company": "Millennium Management",
+    "role": "Applied AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://www.mlp.com/careers/",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-30",
+    "status": "tailored"
   }
 }
