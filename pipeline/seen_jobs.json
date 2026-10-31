@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|deep-learning-intern|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Deep Learning Intern",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/deep-learning",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-31",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.eu.greenhouse.io/imc",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-31",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "nvidia|autonomous-vehicles-and-robotics-intern|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Autonomous Vehicles and Robotics Intern",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/12h?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
+  },
+  "nvidia|software-engineering-intern|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineering Intern",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/12g?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
+  },
+  "doordash|new-grad-software-engineer-i|new-york-ny": {
+    "company": "DoorDash",
+    "role": "New Grad Software Engineer I",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/uG?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
+  },
+  "figma|software-engineer-full-stack|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer, Full Stack",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/xa?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
+  },
+  "stripe|software-engineer-new-grad|seattle-wa": {
+    "company": "Stripe",
+    "role": "Software Engineer, New Grad",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/ro?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-10-31",
+    "status": "tailored"
   }
 }
