@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "tiktok|machine-learning-engineer-intern-brand-ads|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern (Brand Ads)",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/17N",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "tiktok|data-science-intern-tiktok-live|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Data Science Intern (TikTok LIVE)",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/18A",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "tesla|machine-learning-engineer-insurance|palo-alto-ca": {
+    "company": "Tesla",
+    "role": "Machine Learning Engineer (Insurance)",
+    "location": "Palo Alto, CA",
+    "link": "https://www.tesla.com/careers/search/job/machine-learning-engineer-insurance-222880",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple (Mountain View, CA / New York, NY / Seattle, WA)",
+    "link": "https://go.vansh.nyc/19C",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/19F",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "doordash|software-engineer-i|san-francisco-ca": {
+    "company": "DoorDash",
+    "role": "Software Engineer I",
+    "location": "San Francisco, CA",
+    "link": "https://careers.doordash.com/jobs/software-engineer-i-new-grad",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "figma|software-engineer-full-stack|san-francisco-ca": {
+    "company": "Figma",
+    "role": "Software Engineer, Full Stack",
+    "location": "San Francisco, CA",
+    "link": "https://www.figma.com/careers/job/software-engineer-full-stack",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-01",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.com/us/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-01",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "tiktok|research-engineer-intern-agentic-systems|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Research Engineer Intern (Agentic Systems)",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/17Q",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-01",
+    "status": "skipped",
+    "reason": "phd_required"
   }
 }
