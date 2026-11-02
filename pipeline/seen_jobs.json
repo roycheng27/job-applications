@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "tiktok|machine-learning-engineer-lead-ads|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer (Lead Ads)",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/19A?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "bytedance|machine-learning-engineer-aml-engine-orchestration|seattle-wa": {
+    "company": "ByteDance",
+    "role": "Machine Learning Engineer, AML-Engine-Orchestration",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/14N?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "fireworks-ai|member-of-technical-staff|san-francisco-ca": {
+    "company": "Fireworks AI",
+    "role": "Member of Technical Staff",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/19h?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-aws-data-services|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer, AWS Data Services",
+    "location": "Seattle, WA",
+    "link": "https://cvrve.me/jobs",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "databricks|software-engineer-distributed-data-systems|san-francisco-ca": {
+    "company": "Databricks",
+    "role": "Software Engineer, Distributed Data Systems",
+    "location": "San Francisco, CA",
+    "link": "https://cvrve.me/jobs",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "decagon|member-of-technical-staff|san-francisco-ca": {
+    "company": "Decagon",
+    "role": "Member of Technical Staff",
+    "location": "San Francisco, CA",
+    "link": "https://cvrve.me/jobs",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "morningstar|associate-software-engineer-central-tech-ai|chicago-il": {
+    "company": "Morningstar",
+    "role": "Associate Software Engineer, Central Tech AI",
+    "location": "Chicago, IL",
+    "link": "https://cvrve.me/jobs",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-02",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://cvrve.me/jobs",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-02",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
