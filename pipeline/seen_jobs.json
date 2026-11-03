@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "tiktok|machine-learning-engineer-graduate-lead-ads|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Graduate (Lead Ads) - 2027 Start",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7629187524074342709",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
+  },
+  "samsung-research-america|intern-agentic-ai-solutions|mountain-view-ca": {
+    "company": "Samsung Research America",
+    "role": "Intern, Agentic AI Solutions",
+    "location": "Mountain View, CA",
+    "link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8464682002",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
+  },
+  "fireworks-ai|new-grad-2027-member-of-technical-staff|san-mateo-ca": {
+    "company": "Fireworks AI",
+    "role": "New Grad 2027: Member of Technical Staff",
+    "location": "San Mateo, CA",
+    "link": "https://job-boards.greenhouse.io/fireworksai/jobs/4008688009",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-embedded-systems|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, Embedded Systems",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-embedded-systems-summer-2027",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
+  },
+  "d-e-shaw|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw",
+    "role": "Software Developer Intern (New York) - Summer 2027",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS, Summer 2027",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
+  },
+  "microsoft|software-engineer-intern-teamwork-experiences|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Software Engineer Intern, Teamwork Experiences",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/1dY",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-03",
+    "status": "tailored"
   }
 }
