@@ -213,5 +213,108 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D. E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "five-rings|software-developer-intern|new-york-ny": {
+    "company": "Five Rings",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-leo|new-york-ny": {
+    "company": "Amazon",
+    "role": "Software Development Engineer, Amazon Leo",
+    "location": "New York, NY",
+    "link": "https://www.amazon.jobs/en/jobs/2982946/software-development-engineer-amazon-leo",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6225414",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "rippling|software-engineer-intern-backend|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Software Engineer Intern (Backend Focused)",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/rippling/jobs/7978163",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-05",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03575",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-05",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "bytedance|student-researcher-multimodal|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Multimodal",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7498394449263010058",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-05",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "rippling|machine-learning-software-engineer-intern|san-francisco-ca": {
+    "company": "Rippling",
+    "role": "Machine Learning Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://ats.rippling.com/rippling/jobs/mle",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-05",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
