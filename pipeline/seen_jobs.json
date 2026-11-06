@@ -213,5 +213,98 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "t-mobile|ai-engineering-intern|remote-us": {
+    "company": "T-Mobile",
+    "role": "AI Engineering Intern",
+    "location": "Remote-US",
+    "link": "https://go.vansh.nyc/1kC?s=y",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-06",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-06",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-06",
+    "status": "tailored",
+    "note": "grad_year_mismatch: posting specifies 2028, Roy graduates Mar 2027"
+  },
+  "samsara|software-engineering-intern|san-francisco-ca": {
+    "company": "Samsara",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1kA?s=z",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-11-06",
+    "status": "tailored"
+  },
+  "new-york-times|full-stack-engineering-intern|new-york-ny": {
+    "company": "The New York Times",
+    "role": "Full-Stack Engineering Intern",
+    "location": "New York, NY",
+    "link": "N/A",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-06",
+    "status": "tailored"
+  },
+  "stubhub|software-engineer-i|new-york-ny": {
+    "company": "StubHub",
+    "role": "Software Engineer I",
+    "location": "New York, NY",
+    "link": "N/A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-06",
+    "status": "tailored"
+  },
+  "itt|data-analytics-ai-intern|white-plains-ny": {
+    "company": "ITT Inc.",
+    "role": "Data Analytics / AI Intern",
+    "location": "White Plains, NY",
+    "link": "N/A",
+    "source": "vanshb03-offseason",
+    "field": "DA-DS",
+    "first_seen": "2026-11-06",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "N/A",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-06",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "amazon|software-development-engineer-soc-hal|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer, SoC HAL",
+    "location": "Seattle, WA",
+    "link": "N/A",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-06",
+    "status": "skipped",
+    "reason": "experience_required"
   }
 }
