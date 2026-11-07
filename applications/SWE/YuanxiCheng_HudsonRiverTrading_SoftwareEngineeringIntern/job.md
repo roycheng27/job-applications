@@ -8,17 +8,17 @@
 **Field:** SWE
 
 ## JD Summary
-Summer internship at Hudson River Trading (HRT), a leading high-frequency trading and algorithmic market-making firm. The role focuses on building low-latency, high-performance software systems in C++ or Python. HRT interns work on production systems touching trading infrastructure, research tooling, or data pipelines. Strong CS fundamentals and coding ability required; algorithmic thinking and performance optimization are central.
+Summer internship at Hudson River Trading, a leading high-frequency trading and quantitative finance firm. The role involves software engineering on HRT's trading infrastructure, low-latency systems, or research computing pipelines. Emphasis on algorithmic problem-solving, C++ or Python, and high-performance systems development. Strong CS fundamentals and mathematical ability required.
 
 ## Extracted Qualifications / Keywords
-- Proficiency in C++ (primary) and/or Python
-- Data structures and algorithms (competitive programming background a plus)
-- High-performance and low-latency systems programming
-- Systems design and production software
-- Optimization and numerical computing
+- Proficiency in C++ or Python
+- Data structures and algorithms (competitive programming a plus)
+- Low-latency and high-performance systems programming
+- Systems design and scalable software architecture
 - Strong computer science fundamentals
-- Experience with large-scale data pipelines
-- Collaborative engineering in fast-paced environment
+- Mathematical and quantitative aptitude
+- Production software development lifecycle
+- Code correctness, performance optimization, testing
 
 ## Notes
-JD inferred from role title, company (Hudson River Trading HFT/algo market-making), and vanshb03 Summer2027 listing. Direct JD fetch unavailable (network policy). HRT SWE intern roles consistently emphasize C++, performance-critical systems, algorithms, and production engineering.
+JD inferred from role title, company (HRT quantitative trading), and vanshb03 Summer2027 listing. Direct JD fetch unavailable (network policy). HRT SWE intern roles consistently emphasize algorithms, C++, systems programming, and performance-critical computing in quantitative finance contexts.

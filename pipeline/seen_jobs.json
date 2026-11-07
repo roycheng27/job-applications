@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "apple|ai-operations-applied-ai-research-and-design-developer|cupertino-ca": {
+    "company": "Apple",
+    "role": "AI Operations, Applied AI Research and Design Developer",
+    "location": "Cupertino, CA",
+    "link": "https://go.vansh.nyc/1mi?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "zoox|data-science-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Data Science Intern",
+    "location": "Foster City, CA",
+    "link": "https://zoox.com/careers/",
+    "source": "vanshb03/Summer2027-Internships",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "t-mobile|ai-engineering-intern|bellevue-wa": {
+    "company": "T-Mobile",
+    "role": "AI Engineering Intern",
+    "location": "Bellevue, WA",
+    "link": "https://careers.t-mobile.com/",
+    "source": "vanshb03/Summer2027-Internships",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/",
+    "source": "sndsh404/Summer2027-Internships",
+    "field": "SWE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/",
+    "source": "vanshb03/Summer2027-Internships",
+    "field": "SWE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/",
+    "source": "vanshb03/Summer2027-Internships",
+    "field": "SWE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "elevenlabs|full-stack-engineer|new-york-ny": {
+    "company": "ElevenLabs",
+    "role": "Full-Stack Engineer (Backend Leaning)",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1mm?s=A",
+    "source": "cvrve/New-Grad",
+    "field": "SWE",
+    "first_seen": "2026-11-07",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-new-grad|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer, New Grad",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir",
+    "source": "sndsh404/Summer2027-Internships",
+    "field": "SWE",
+    "first_seen": "2026-11-07",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "imc-trading|ml-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.com/careers/",
+    "source": "vanshb03/Summer2027-Internships",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-07",
+    "status": "skipped",
+    "reason": "masters_required"
   }
 }
