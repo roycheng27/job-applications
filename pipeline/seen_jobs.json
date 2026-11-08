@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "openai|new-grad-2027-swe-applied-emerging-talent|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "New Grad 2027: SWE, Applied Emerging Talent",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/KF?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "tiktok|new-grad-2027-ml-eng-conversational-ai|seattle-wa": {
+    "company": "TikTok",
+    "role": "New Grad 2027: ML Engineer, Conversational AI",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/HY?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "salesforce|ai-labs-intern-emerging-talent|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "AI Labs Intern, Emerging Talent",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/10J?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "scale-ai|machine-learning-research-intern|new-york-ny": {
+    "company": "Scale AI",
+    "role": "Machine Learning Research Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/br?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "stripe|new-grad-2027-software-engineer|san-francisco-ca": {
+    "company": "Stripe",
+    "role": "New Grad 2027: Software Engineer",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/No?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "doordash|new-grad-2027-software-engineer-i|los-angeles-ca": {
+    "company": "DoorDash",
+    "role": "New Grad 2027: Software Engineer I",
+    "location": "Los Angeles, CA",
+    "link": "https://go.vansh.nyc/Nh?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "adobe|new-grad-2027-software-engineer|seattle-wa": {
+    "company": "Adobe",
+    "role": "New Grad 2027: Software Engineer",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/L7?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-08",
+    "status": "tailored"
+  },
+  "zoox|data-science-intern|foster-city-ca": {
+    "company": "Zoox",
+    "role": "Data Science Intern",
+    "location": "Foster City, CA",
+    "link": "https://zoox.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-08",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "amazon|sde-intern-ml-automated-reasoning|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, ML/Automated Reasoning",
+    "location": "Seattle, WA",
+    "link": "https://www.amazon.jobs",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-08",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
