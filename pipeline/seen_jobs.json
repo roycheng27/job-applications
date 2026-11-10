@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|ai-operations-intern-ai-clouds|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "AI Operations Intern, AI Clouds",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/1qq?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
+  },
+  "general-motors|machine-learning-engineer-intern|austin-tx": {
+    "company": "General Motors",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Austin, TX",
+    "link": "https://careers.gm.com",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
+  },
+  "sambanova-systems|machine-learning-engineer|palo-alto-ca": {
+    "company": "SambaNova Systems",
+    "role": "Machine Learning Engineer",
+    "location": "Palo Alto, CA",
+    "link": "https://sambanova.ai/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
+  },
+  "addepar|ai-engineering-intern|remote-us": {
+    "company": "Addepar",
+    "role": "AI Engineering Intern",
+    "location": "Remote, US",
+    "link": "https://addepar.com/careers",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
+  },
+  "cursor|software-engineer|san-francisco-ca": {
+    "company": "Cursor",
+    "role": "Software Engineer",
+    "location": "San Francisco, CA",
+    "link": "https://cursor.com/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
+  },
+  "morgan-stanley|software-engineer-co-op|new-york-ny": {
+    "company": "Morgan Stanley",
+    "role": "Software Engineer Co-op",
+    "location": "New York, NY",
+    "link": "https://morganstanley.com/careers",
+    "source": "vanshb03-offseason",
+    "field": "SWE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
+  },
+  "elevenlabs|full-stack-software-engineer|new-york-ny": {
+    "company": "ElevenLabs",
+    "role": "Full-Stack Software Engineer",
+    "location": "New York, NY",
+    "link": "https://elevenlabs.io/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-10",
+    "status": "tailored"
   }
 }
