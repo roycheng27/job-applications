@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|software-engineer-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-11",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "tiktok|machine-learning-engineer-intern-e-commerce-recommendation-mall|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1sI?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
+  },
+  "engramme|machine-learning-engineer-co-op|san-francisco-ca": {
+    "company": "Engramme",
+    "role": "Machine Learning Engineer Co-op",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1fz?s=z",
+    "source": "vanshb03-offseason",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|sunnyvale-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Sunnyvale, CA",
+    "link": "https://careers.google.com/jobs/results/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
+  },
+  "brex|software-engineer-intern|san-francisco-ca": {
+    "company": "Brex",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://www.brex.com/careers",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
+  },
+  "palantir-technologies|software-engineer-intern|new-york-ny": {
+    "company": "Palantir Technologies",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6205382",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
+  },
+  "salesforce|associate-member-of-technical-staff|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "Associate Member of Technical Staff",
+    "location": "San Francisco, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-11",
+    "status": "tailored"
   }
 }
