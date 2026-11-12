@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|data-scientist-intern-coreai|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Data Scientist Intern, CoreAI",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/1wj?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-ml-automated-reasoning|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, Machine Learning / Automated Reasoning",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/10y?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "tiktok|machine-learning-engineer-intern-monetization-ads|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern, Monetization Technology, Ads Core Global",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/G8?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "salesforce|ai-labs-intern-emerging-talent|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "AI Labs Intern, Emerging Talent",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/10J?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "cursor|software-engineer-new-grad|san-francisco-ca": {
+    "company": "Cursor",
+    "role": "Software Engineer (New Grad 2027)",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1qa?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "databricks|software-engineer-distributed-data-systems-new-grad|bellevue-wa": {
+    "company": "Databricks",
+    "role": "Software Engineer, Distributed Data Systems (New Grad 2027)",
+    "location": "Bellevue, WA",
+    "link": "https://go.vansh.nyc/WB?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "salesforce|software-engineering-amts-new-grad|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "Software Engineering AMTS (New Grad)",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1uI?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-12",
+    "status": "tailored"
+  },
+  "microsoft|applied-scientist-intern-turing|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Applied Scientist Intern, Turing",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/1wj?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-12",
+    "status": "skipped",
+    "reason": "possible_phd_required"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://go.vansh.nyc/1wj?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-12",
+    "status": "skipped",
+    "reason": "posting_closed"
   }
 }
