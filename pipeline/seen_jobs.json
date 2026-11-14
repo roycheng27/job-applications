@@ -209,9 +209,81 @@
     "location": "Chicago, IL",
     "link": "https://boards.greenhouse.io/aquaticcapitalmanagement",
     "source": "vanshb03",
-    "field": "SWE",
+    "field": "AI-MLE",
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "tiktok|machine-learning-engineer-intern-data-global-e-commerce-search|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1ym?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-14",
+    "status": "tailored"
+  },
+  "empire-state-realty-trust|applied-ai-engineer-1|new-york-ny": {
+    "company": "Empire State Realty Trust",
+    "role": "Applied AI Engineer 1",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1zo?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-14",
+    "status": "tailored"
+  },
+  "bloomberg-industry-group|engineering-intern|arlington-va": {
+    "company": "Bloomberg Industry Group",
+    "role": "Engineering Intern",
+    "location": "Arlington, VA",
+    "link": "https://go.vansh.nyc/1yW?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-14",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|multiple-locations": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Multiple locations (Mountain View, Seattle, NYC, etc.)",
+    "link": "https://go.vansh.nyc/[see-vanshb03-jul24-entry]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-14",
+    "status": "tailored",
+    "note": "vanshb03 entry dated Jul 24 marked closed; graduation timing concern (Roy graduates Mar 2027)"
+  },
+  "spacex|new-grad-2027-engineer-software|hawthorne-ca": {
+    "company": "SpaceX",
+    "role": "New Grad 2027: Engineer, Software",
+    "location": "Hawthorne, CA",
+    "link": "https://go.vansh.nyc/Ul?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-14",
+    "status": "tailored"
+  },
+  "crowdstrike|insider-risk-engineering-intern|arlington-va-sunnyvale-ca": {
+    "company": "CrowdStrike",
+    "role": "Insider Risk Engineering Intern",
+    "location": "Arlington, VA; Redmond, WA; Sunnyvale, CA",
+    "link": "https://go.vansh.nyc/1z6?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-14",
+    "status": "tailored"
+  },
+  "wtw|data-analyst-intern|remote-us": {
+    "company": "WTW (Willis Towers Watson)",
+    "role": "Data Analyst Intern",
+    "location": "Remote US / multiple",
+    "link": "https://careers.wtwco.com",
+    "source": "web-search",
+    "field": "DA-DS",
+    "first_seen": "2026-11-14",
+    "status": "tailored",
+    "note": "not found in GitHub source tables this run; exact link not retrieved"
   }
 }
