@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "openai|software-engineer-applied-emerging-talent|san-francisco-ca": {
+    "company": "OpenAI",
+    "role": "Software Engineer, Applied Emerging Talent",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/KF?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
+  },
+  "amazon|software-development-engineer-intern-machine-learning-automated-reasoning|seattle-wa": {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/10y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
+  },
+  "salesforce|ai-labs-intern-emerging-talent|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "AI Labs Intern, Emerging Talent",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/10J",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
+  },
+  "adobe|machine-learning-engineer-intern|san-francisco-ca": {
+    "company": "Adobe",
+    "role": "Machine Learning Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/BO",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
+  },
+  "tiktok|research-engineer-intern-agentic-systems-and-ai-infrastructure|seattle-wa": {
+    "company": "TikTok",
+    "role": "Research Engineer Intern, Agentic Systems & AI Infrastructure",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/17U",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
+  },
+  "bytedance|machine-learning-engineer-intern-aml-engine-orchestration|seattle-wa": {
+    "company": "ByteDance",
+    "role": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/17K",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-15",
+    "status": "tailored"
   }
 }
