@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|deep-learning-framework-communications-engineer|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Deep Learning Framework Communications Engineer",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-16",
+    "status": "skipped",
+    "reason": "senior_role_not_entry_level"
+  },
+  "microsoft|data-scientist-intern-core-ai|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Data Scientist Intern, Core AI",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/1wj?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
+  },
+  "tiktok|ml-engineer-intern-e-commerce-search|san-jose-ca": {
+    "company": "TikTok",
+    "role": "ML Engineer Intern, E-Commerce Search",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1ym?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
+  },
+  "paypal|machine-learning-engineer-intern|san-jose-ca": {
+    "company": "PayPal",
+    "role": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1hz?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
+  },
+  "waymo|software-engineer-intern-multiverse|san-francisco-ca": {
+    "company": "Waymo",
+    "role": "Software Engineer Intern, Multiverse",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1qh?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
+  },
+  "spacex|full-stack-software-engineer-starlink|palo-alto-ca": {
+    "company": "SpaceX",
+    "role": "Full Stack Software Engineer, Starlink",
+    "location": "Palo Alto, CA",
+    "link": "https://go.vansh.nyc/1zZ?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
+  },
+  "riot-games|data-engineering-intern|los-angeles-ca": {
+    "company": "Riot Games",
+    "role": "Data Engineering Intern",
+    "location": "Los Angeles, CA",
+    "link": "https://go.vansh.nyc/1sS?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-16",
+    "status": "tailored"
   }
 }
