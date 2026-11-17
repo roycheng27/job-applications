@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|data-scientist-intern-coreai|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Data Scientist Intern, CoreAI",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/1wj?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
+  },
+  "tiktok|ml-engineer-intern-e-commerce-search|san-jose-ca": {
+    "company": "TikTok",
+    "role": "ML Engineer Intern, E-Commerce Search",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1ym?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
+  },
+  "waymo|software-engineer-intern|san-francisco-ca": {
+    "company": "Waymo",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1qh?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
+  },
+  "nbcuniversal|data-ai-ml-intern|new-york-ny": {
+    "company": "NBCUniversal",
+    "role": "Data & AI/ML Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1oE?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
+  },
+  "disney|data-engineering-intern|burbank-ca": {
+    "company": "Disney",
+    "role": "Data Engineering Intern",
+    "location": "Burbank, CA",
+    "link": "https://go.vansh.nyc/1AL?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
+  },
+  "shopify|data-intern|remote-us": {
+    "company": "Shopify",
+    "role": "Data Intern",
+    "location": "Remote-US",
+    "link": "https://go.vansh.nyc/1Ad?s=y",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
+  },
+  "bloomberg-industry-group|data-analyst-intern|arlington-va": {
+    "company": "Bloomberg Industry Group",
+    "role": "Data Analyst Intern",
+    "location": "Arlington, VA",
+    "link": "https://go.vansh.nyc/1AF?s=y",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-11-17",
+    "status": "tailored"
   }
 }
