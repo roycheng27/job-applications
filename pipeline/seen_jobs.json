@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "s-and-p-global|machine-learning-engineer-intern|new-york-ny": {
+    "company": "S&P Global",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1C7?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "samsung-semiconductor|architecture-research-engineer-intern|san-jose-ca": {
+    "company": "Samsung Semiconductor",
+    "role": "Architecture Research Engineer Intern, MoE Placement for Serving at Scale",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1Cm?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "bristol-myers-squibb|undergrad-data-science-intern|remote": {
+    "company": "Bristol Myers Squibb",
+    "role": "Undergrad Data Science Intern",
+    "location": "Remote (US)",
+    "link": "https://go.vansh.nyc/1Ck?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "starwood-capital-group|agentic-engineering-intern|new-york-ny": {
+    "company": "Starwood Capital Group",
+    "role": "Agentic Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1BL?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "spacex|new-graduate-engineer-software-starlink|palo-alto-ca": {
+    "company": "SpaceX",
+    "role": "New Graduate Engineer, Software (Starlink)",
+    "location": "Palo Alto, CA",
+    "link": "https://go.vansh.nyc/1zZ?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "atoms|ai-researcher|san-francisco-ca": {
+    "company": "Atoms",
+    "role": "New Grad: AI Researcher",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1BU?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-18",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://job-boards.eu.greenhouse.io/imctrading",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-18",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-18",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
