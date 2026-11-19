@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "crowdstrike|ai-research-launch-intern|sunnyvale-ca": {
+    "company": "CrowdStrike",
+    "role": "AI Research Launch Intern",
+    "location": "Sunnyvale, CA",
+    "link": "https://go.vansh.nyc/1D0?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-19",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
+  },
+  "imctrading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://go.vansh.nyc/1D1?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-19",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "docusign|product-data-science-intern|san-francisco-ca": {
+    "company": "DocuSign",
+    "role": "Product Data Science Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1D2?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
+  },
+  "sp-global|machine-learning-engineer-intern|new-york-ny": {
+    "company": "S&P Global",
+    "role": "Machine Learning Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1C7?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
+  },
+  "here-technologies|data-science-intern|chicago-il": {
+    "company": "HERE Technologies",
+    "role": "Data Science Intern",
+    "location": "Chicago, IL",
+    "link": "https://go.vansh.nyc/1CB?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
+  },
+  "bristol-myers-squibb|undergrad-data-science-intern|remote-us": {
+    "company": "Bristol-Myers Squibb",
+    "role": "Undergrad Data Science Intern",
+    "location": "Remote US",
+    "link": "https://go.vansh.nyc/1Ck?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
+  },
+  "airbnb|software-engineering-intern|san-francisco-ca": {
+    "company": "Airbnb",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1C6?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
+  },
+  "walt-disney-company|data-engineering-intern|new-york-ny": {
+    "company": "Walt Disney Company",
+    "role": "Data Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1AL?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
+  },
+  "google|software-engineer-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineer Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://careers.google.com/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-19",
+    "status": "tailored"
   }
 }
