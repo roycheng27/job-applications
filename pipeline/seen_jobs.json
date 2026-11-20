@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "microsoft|research-intern-ai-ml|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Research Intern - AI/ML",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/[redirect not captured]",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
+  },
+  "cisco|ai-researcher-ii-intern|san-francisco-ca": {
+    "company": "Cisco",
+    "role": "AI Researcher II Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1Eb?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
+  },
+  "anduril|machine-learning-engineer-intern|santa-ana-ca": {
+    "company": "Anduril",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Santa Ana, CA",
+    "link": "https://go.vansh.nyc/1Bo?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
+  },
+  "crowdstrike|ai-research-launch-intern|sunnyvale-ca": {
+    "company": "CrowdStrike",
+    "role": "AI Research Launch Intern",
+    "location": "Sunnyvale, CA",
+    "link": "https://go.vansh.nyc/1BB?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern|sunnyvale-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "link": "https://go.vansh.nyc/[redirect not captured]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
+  },
+  "airbnb|software-engineering-intern|san-francisco-ca": {
+    "company": "Airbnb",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/[redirect not captured]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
+  },
+  "bloomberg-industry-group|data-analyst-intern|arlington-va": {
+    "company": "Bloomberg Industry Group",
+    "role": "Data Analyst Intern",
+    "location": "Arlington, VA",
+    "link": "https://go.vansh.nyc/[redirect not captured]",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-11-20",
+    "status": "tailored"
   }
 }
