@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://careers.imc.com/us/en/job/REQ-03501",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
+  },
+  "nvidia|software-engineer-dl-kernel-libraries|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineer, DL Kernel Libraries",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/1F0?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6136831",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
+  },
+  "five-rings|software-developer-intern|new-york-ny": {
+    "company": "Five Rings",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://fiverings.com/apply/?gh_jid=526148",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
+  },
+  "old-mission-capital|software-engineer-intern|chicago-il": {
+    "company": "Old Mission Capital",
+    "role": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "link": "https://www.oldmissioncapital.com/careers/?gh_jid=5177582003",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-21",
+    "status": "tailored"
   }
 }
