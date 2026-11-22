@@ -213,5 +213,115 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "google|software-engineering-intern-bs|various-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS (Summer 2027)",
+    "location": "Various US",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/SWE/YuanxiCheng_Google_SoftwareEngineeringInternBS"
+  },
+  "nvidia|software-engineer-deep-learning-kernel-libraries|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Software Engineer, Deep Learning Kernel Libraries (Summer 2027)",
+    "location": "Santa Clara, CA",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/AI-MLE/YuanxiCheng_NVIDIA_SoftwareEngineerDLKernelLibraries"
+  },
+  "hudson-river-trading|software-engineering-intern|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "location": "New York, NY",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/SWE/YuanxiCheng_HudsonRiverTrading_SoftwareEngineeringIntern"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern (Summer 2027)",
+    "location": "New York, NY",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/SWE/YuanxiCheng_DEShaw_SoftwareDeveloperIntern"
+  },
+  "rivian|software-engineering-intern-ai-platform|palo-alto-ca": {
+    "company": "Rivian",
+    "role": "Software Engineering Intern, AI Platform (Summer 2027)",
+    "location": "Palo Alto, CA",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/SWE/YuanxiCheng_Rivian_SoftwareEngineeringInternAIPlatform"
+  },
+  "five-rings|software-developer-intern|new-york-ny": {
+    "company": "Five Rings",
+    "role": "Software Developer Intern (Summer 2027)",
+    "location": "New York, NY",
+    "link": "[JD URL not accessible — posting may be closed]",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/SWE/YuanxiCheng_FiveRings_SoftwareDeveloperIntern"
+  },
+  "virtu-financial|quantitative-researcher-intern|new-york-ny": {
+    "company": "Virtu Financial",
+    "role": "Quantitative Researcher Intern (Summer 2027)",
+    "location": "New York, NY",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-11-22",
+    "status": "tailored",
+    "folder": "applications/DA-DS/YuanxiCheng_VirtuFinancial_QuantitativeResearcherIntern"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-22",
+    "status": "skipped",
+    "reason": "masters_or_phd_required"
+  },
+  "point72|quantitative-researcher-intern|new-york-ny": {
+    "company": "Point72",
+    "role": "Quantitative Researcher Intern",
+    "location": "New York, NY",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-11-22",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "[JD URL not accessible]",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-22",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
