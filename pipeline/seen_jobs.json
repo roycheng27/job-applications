@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "bytedance|student-researcher-multimodal|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Multimodal",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7623548747208739077",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "mitre|generative-and-agentic-ai-intern|mclean-va": {
+    "company": "MITRE",
+    "role": "Generative and Agentic AI Intern",
+    "location": "McLean, VA",
+    "link": "https://go.vansh.nyc/1GB?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "artefact|ai-engineer-intern|new-york-ny": {
+    "company": "Artefact",
+    "role": "AI Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1Gz?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|multiple-us": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "de-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "hudson-river-trading|software-engineering-internship|new-york-ny": {
+    "company": "Hudson River Trading",
+    "role": "Software Engineering Internship (C++ or Python)",
+    "location": "New York, NY",
+    "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "oscar-health|software-engineering-intern|new-york-ny": {
+    "company": "Oscar Health",
+    "role": "Software Engineering Intern",
+    "location": "New York, NY",
+    "link": "https://go.vansh.nyc/1H6?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-23",
+    "status": "tailored"
+  },
+  "imc-trading|machine-learning-research-intern|chicago-il": {
+    "company": "IMC Trading",
+    "role": "Machine Learning Research Intern",
+    "location": "Chicago, IL",
+    "link": "https://imc.com/careers",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-23",
+    "status": "skipped",
+    "reason": "masters_required"
+  },
+  "bytedance|student-researcher-vision-foundation-model-seed|san-jose-ca": {
+    "company": "ByteDance",
+    "role": "Student Researcher, Vision Foundation Model (Seed)",
+    "location": "San Jose, CA",
+    "link": "https://joinbytedance.com/search/7623548747208739078",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-23",
+    "status": "skipped",
+    "reason": "cap_reached"
   }
 }
