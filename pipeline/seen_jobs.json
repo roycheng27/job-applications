@@ -213,5 +213,75 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|developer-technology-intern-ai|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Developer Technology Intern, AI",
+    "location": "Santa Clara, CA",
+    "link": "https://go.vansh.nyc/1Im?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
+  },
+  "microsoft|data-scientist-intern-coreai|redmond-wa": {
+    "company": "Microsoft",
+    "role": "Data Scientist Intern, CoreAI",
+    "location": "Redmond, WA",
+    "link": "https://go.vansh.nyc/1wj?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
+  },
+  "tiktok|machine-learning-engineer-intern-data-global-e-commerce-search|san-jose-ca": {
+    "company": "TikTok",
+    "role": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1ym?s=y",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
+  },
+  "airbnb|software-engineering-intern|san-francisco-ca": {
+    "company": "Airbnb",
+    "role": "Software Engineering Intern",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1C6?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
+  },
+  "waymo|software-engineer-intern-multiverse|san-francisco-ca": {
+    "company": "Waymo",
+    "role": "Software Engineer Intern, Multiverse",
+    "location": "San Francisco, CA",
+    "link": "https://go.vansh.nyc/1qh?s=y",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
+  },
+  "bloomberg-industry-group|data-analyst-intern|arlington-va": {
+    "company": "Bloomberg Industry Group",
+    "role": "Data Analyst Intern",
+    "location": "Arlington, VA",
+    "link": "https://go.vansh.nyc/1AF?s=y",
+    "source": "vanshb03",
+    "field": "DA-DS",
+    "first_seen": "2026-11-24",
+    "status": "tailored"
   }
 }
