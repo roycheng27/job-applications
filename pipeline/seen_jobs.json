@@ -213,5 +213,86 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "nvidia|developer-technology-ai-intern|santa-clara-ca": {
+    "company": "NVIDIA",
+    "role": "Developer Technology AI Intern",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "tiktok|ml-engineer-lead-ads|san-jose-ca": {
+    "company": "TikTok",
+    "role": "ML Engineer, Lead Ads",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "tiktok|ai-infra-engineer|san-jose-ca": {
+    "company": "TikTok",
+    "role": "AI Infra Engineer",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "samsung-semiconductor|llm-inference-architecture-intern|san-jose-ca": {
+    "company": "Samsung Semiconductor",
+    "role": "LLM Inference Architecture Intern",
+    "location": "San Jose, CA",
+    "link": "https://samsung.com/us/careers/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "sambanova|ml-engineer-intern|palo-alto-ca": {
+    "company": "SambaNova Systems",
+    "role": "ML Engineer Intern",
+    "location": "Palo Alto, CA",
+    "link": "https://sambanova.ai/careers/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs|united-states": {
+    "company": "Google",
+    "role": "Software Engineering Intern, BS",
+    "location": "Multiple US locations",
+    "link": "https://careers.google.com/",
+    "source": "vanshb03",
+    "field": "SWE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "salesforce|software-engineering-amts|san-francisco-ca": {
+    "company": "Salesforce",
+    "role": "Software Engineering AMTS",
+    "location": "San Francisco, CA",
+    "link": "https://salesforce.wd12.myworkdayjobs.com/",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-25",
+    "status": "tailored"
+  },
+  "microsoft|ai-ml-research-intern|redmond-wa": {
+    "company": "Microsoft",
+    "role": "AI/ML Research Intern",
+    "location": "Redmond, WA",
+    "link": "https://careers.microsoft.com/",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-25",
+    "status": "skipped",
+    "reason": "masters_likely_required"
   }
 }
