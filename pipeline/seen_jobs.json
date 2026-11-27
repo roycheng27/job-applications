@@ -213,5 +213,97 @@
     "first_seen": "2026-06-24",
     "status": "skipped",
     "reason": "graduation_mismatch"
+  },
+  "sambanova|machine-learning-engineer-intern|san-jose-ca": {
+    "company": "SambaNova Systems",
+    "role": "Machine Learning Engineer Intern",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1Jr",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "google|software-engineering-intern-bs-summer-2027|mountain-view-ca": {
+    "company": "Google",
+    "role": "Software Engineering Intern (BS, Summer 2027)",
+    "location": "Mountain View, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern/",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "amazon|new-grad-2027-front-end-engineer|seattle-wa": {
+    "company": "Amazon",
+    "role": "Front-End Engineer (New Grad 2027)",
+    "location": "Seattle, WA",
+    "link": "https://go.vansh.nyc/1Iv?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "d-e-shaw|software-developer-intern|new-york-ny": {
+    "company": "D.E. Shaw",
+    "role": "Software Developer Intern",
+    "location": "New York, NY",
+    "link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "paypal|new-grad-2027-software-engineer|san-jose-ca": {
+    "company": "PayPal",
+    "role": "Software Engineer (New Grad 2027)",
+    "location": "San Jose, CA",
+    "link": "https://go.vansh.nyc/1Io?s=A",
+    "source": "cvrve",
+    "field": "SWE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "scout-ai|new-grad-2027-ai-engineer|sunnyvale-ca": {
+    "company": "Scout AI",
+    "role": "AI Engineer (New Grad 2027)",
+    "location": "Sunnyvale, CA",
+    "link": "https://go.vansh.nyc/1K3?s=A",
+    "source": "cvrve",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "siemens|agentic-analytics-data-intern|united-states": {
+    "company": "Siemens",
+    "role": "Agentic Analytics & Data Intern",
+    "location": "Remote (United States)",
+    "link": "https://go.vansh.nyc/1Ll",
+    "source": "vanshb03",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-27",
+    "status": "tailored"
+  },
+  "imc-trading|ml-research-intern|new-york-ny": {
+    "company": "IMC Trading",
+    "role": "ML Research Intern",
+    "location": "New York, NY",
+    "link": "https://boards.greenhouse.io/imc/jobs/4556738006",
+    "source": "sndsh404",
+    "field": "AI-MLE",
+    "first_seen": "2026-11-27",
+    "status": "skipped",
+    "reason": "phd_required"
+  },
+  "palantir|software-engineer-intern|new-york-ny": {
+    "company": "Palantir",
+    "role": "Software Engineer Intern",
+    "location": "New York, NY",
+    "link": "https://jobs.lever.co/palantir/468155bf-9d7f-4c05-8c0b-69a7b06baee4",
+    "source": "sndsh404",
+    "field": "SWE",
+    "first_seen": "2026-11-27",
+    "status": "skipped",
+    "reason": "graduation_mismatch"
   }
 }
